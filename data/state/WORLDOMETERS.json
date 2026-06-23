@@ -1,0 +1,1187 @@
+{
+  "North America": {
+    "req": "Total: 131,889,132",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Asia": {
+    "req": "Total: 221,500,265",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Europe": {
+    "req": "Total: 253,406,198",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "South America": {
+    "req": "Total: 70,200,879",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Oceania": {
+    "req": "Total: 14,895,771",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Africa": {
+    "req": "Total: 12,860,924",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "USA": {
+    "req": "Total: 111,820,082",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:58:02"
+  },
+  "India": {
+    "req": "Total: 45,035,393",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "France": {
+    "req": "Total: 40,138,560",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Germany": {
+    "req": "Total: 38,828,995",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:57"
+  },
+  "Brazil": {
+    "req": "Total: 38,743,918",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "S. Korea": {
+    "req": "Total: 34,571,873",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Japan": {
+    "req": "Total: 33,803,572",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Italy": {
+    "req": "Total: 26,723,249",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "UK": {
+    "req": "Total: 24,910,387",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:57"
+  },
+  "Russia": {
+    "req": "Total: 24,124,215",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Turkey": {
+    "req": "Total: 17,232,066",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Spain": {
+    "req": "Total: 13,914,811",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Australia": {
+    "req": "Total: 11,853,144",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Vietnam": {
+    "req": "Total: 11,625,195",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Taiwan": {
+    "req": "Total: 10,241,523",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Argentina": {
+    "req": "Total: 10,128,845",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Netherlands": {
+    "req": "Total: 8,635,786",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Mexico": {
+    "req": "Total: 7,702,809",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Iran": {
+    "req": "Total: 7,627,186",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Indonesia": {
+    "req": "Total: 6,829,221",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Poland": {
+    "req": "Total: 6,661,991",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Colombia": {
+    "req": "Total: 6,400,173",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Greece": {
+    "req": "Total: 6,101,379",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Austria": {
+    "req": "Total: 6,081,287",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Portugal": {
+    "req": "Total: 5,643,062",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Ukraine": {
+    "req": "Total: 5,557,995",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Chile": {
+    "req": "Total: 5,384,853",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Malaysia": {
+    "req": "Total: 5,278,406",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Canada": {
+    "req": "Total: 4,946,090",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Belgium": {
+    "req": "Total: 4,861,695",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Israel": {
+    "req": "Total: 4,841,772",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "DPRK": {
+    "req": "Total: 4,772,813",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Thailand": {
+    "req": "Total: 4,770,149",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Czechia": {
+    "req": "Total: 4,759,041",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Peru": {
+    "req": "Total: 4,572,667",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Switzerland": {
+    "req": "Total: 4,453,053",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Philippines": {
+    "req": "Total: 4,140,383",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "South Africa": {
+    "req": "Total: 4,076,463",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Romania": {
+    "req": "Total: 3,529,735",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Denmark": {
+    "req": "Total: 3,183,756",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Singapore": {
+    "req": "Total: 3,006,155",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Hong Kong": {
+    "req": "Total: 2,937,609",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Sweden": {
+    "req": "Total: 2,754,129",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "New Zealand": {
+    "req": "Total: 2,621,111",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Serbia": {
+    "req": "Total: 2,615,054",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Iraq": {
+    "req": "Total: 2,465,545",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Hungary": {
+    "req": "Total: 2,230,232",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Bangladesh": {
+    "req": "Total: 2,049,377",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Slovakia": {
+    "req": "Total: 1,877,605",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Georgia": {
+    "req": "Total: 1,861,665",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Jordan": {
+    "req": "Total: 1,746,997",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Ireland": {
+    "req": "Total: 1,734,582",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Pakistan": {
+    "req": "Total: 1,581,936",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Finland": {
+    "req": "Total: 1,516,117",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Norway": {
+    "req": "Total: 1,509,732",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Kazakhstan": {
+    "req": "Total: 1,411,831",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Lithuania": {
+    "req": "Total: 1,397,806",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Slovenia": {
+    "req": "Total: 1,356,546",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Bulgaria": {
+    "req": "Total: 1,339,851",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Croatia": {
+    "req": "Total: 1,309,728",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Guatemala": {
+    "req": "Total: 1,291,293",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Morocco": {
+    "req": "Total: 1,278,992",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Lebanon": {
+    "req": "Total: 1,243,838",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Costa Rica": {
+    "req": "Total: 1,238,883",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Bolivia": {
+    "req": "Total: 1,212,131",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Tunisia": {
+    "req": "Total: 1,153,361",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Cuba": {
+    "req": "Total: 1,115,251",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Ecuador": {
+    "req": "Total: 1,070,188",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "UAE": {
+    "req": "Total: 1,067,030",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Panama": {
+    "req": "Total: 1,059,893",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Uruguay": {
+    "req": "Total: 1,041,111",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Mongolia": {
+    "req": "Total: 1,011,496",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Nepal": {
+    "req": "Total: 1,003,450",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Belarus": {
+    "req": "Total: 994,037",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Latvia": {
+    "req": "Total: 982,505",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Saudi Arabia": {
+    "req": "Total: 841,469",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Paraguay": {
+    "req": "Total: 837,602",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Azerbaijan": {
+    "req": "Total: 835,234",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Bahrain": {
+    "req": "Total: 729,549",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Cyprus": {
+    "req": "Total: 681,110",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Dominican Republic": {
+    "req": "Total: 675,890",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Sri Lanka": {
+    "req": "Total: 672,754",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Kuwait": {
+    "req": "Total: 667,158",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Myanmar": {
+    "req": "Total: 641,873",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Moldova": {
+    "req": "Total: 635,145",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Estonia": {
+    "req": "Total: 628,070",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Palestine": {
+    "req": "Total: 621,008",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Venezuela": {
+    "req": "Total: 552,695",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Egypt": {
+    "req": "Total: 516,023",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Qatar": {
+    "req": "Total: 514,524",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Libya": {
+    "req": "Total: 507,274",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Ethiopia": {
+    "req": "Total: 501,157",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Réunion": {
+    "req": "Total: 494,595",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Honduras": {
+    "req": "Total: 474,590",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Armenia": {
+    "req": "Total: 451,831",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Bosnia and Herzegovina": {
+    "req": "Total: 403,615",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Oman": {
+    "req": "Total: 399,449",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Luxembourg": {
+    "req": "Total: 391,232",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "North Macedonia": {
+    "req": "Total: 350,567",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Zambia": {
+    "req": "Total: 349,304",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Kenya": {
+    "req": "Total: 344,130",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Brunei": {
+    "req": "Total: 343,719",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Albania": {
+    "req": "Total: 334,863",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Botswana": {
+    "req": "Total: 330,638",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Montenegro": {
+    "req": "Total: 296,542",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Algeria": {
+    "req": "Total: 272,010",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Nigeria": {
+    "req": "Total: 267,188",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Zimbabwe": {
+    "req": "Total: 266,359",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Uzbekistan": {
+    "req": "Total: 253,662",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Afghanistan": {
+    "req": "Total: 234,174",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Mozambique": {
+    "req": "Total: 233,731",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Martinique": {
+    "req": "Total: 230,354",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Laos": {
+    "req": "Total: 218,970",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Iceland": {
+    "req": "Total: 209,906",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Kyrgyzstan": {
+    "req": "Total: 206,897",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Guadeloupe": {
+    "req": "Total: 203,235",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "El Salvador": {
+    "req": "Total: 201,855",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Trinidad and Tobago": {
+    "req": "Total: 191,496",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Maldives": {
+    "req": "Total: 186,694",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Namibia": {
+    "req": "Total: 172,389",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Uganda": {
+    "req": "Total: 172,149",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Ghana": {
+    "req": "Total: 171,889",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Jamaica": {
+    "req": "Total: 156,869",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Cambodia": {
+    "req": "Total: 139,103",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Rwanda": {
+    "req": "Total: 133,518",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Cameroon": {
+    "req": "Total: 125,379",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Malta": {
+    "req": "Total: 121,420",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Barbados": {
+    "req": "Total: 110,578",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Angola": {
+    "req": "Total: 107,327",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Channel Islands": {
+    "req": "Total: 101,717",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "DRC": {
+    "req": "Total: 99,338",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "French Guiana": {
+    "req": "Total: 98,041",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Malawi": {
+    "req": "Total: 89,535",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Senegal": {
+    "req": "Total: 89,053",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Ivory Coast": {
+    "req": "Total: 88,384",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Suriname": {
+    "req": "Total: 82,588",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "New Caledonia": {
+    "req": "Total: 80,064",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "French Polynesia": {
+    "req": "Total: 79,254",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Eswatini": {
+    "req": "Total: 75,191",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Guyana": {
+    "req": "Total: 74,137",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Belize": {
+    "req": "Total: 71,409",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Fiji": {
+    "req": "Total: 69,117",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Madagascar": {
+    "req": "Total: 68,486",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Cabo Verde": {
+    "req": "Total: 64,477",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Sudan": {
+    "req": "Total: 63,993",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Mauritania": {
+    "req": "Total: 63,848",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Bhutan": {
+    "req": "Total: 62,697",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Syria": {
+    "req": "Total: 57,743",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Burundi": {
+    "req": "Total: 54,721",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Seychelles": {
+    "req": "Total: 51,220",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Gabon": {
+    "req": "Total: 49,051",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Andorra": {
+    "req": "Total: 48,015",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Papua New Guinea": {
+    "req": "Total: 46,864",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Curaçao": {
+    "req": "Total: 45,986",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Aruba": {
+    "req": "Total: 44,224",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Tanzania": {
+    "req": "Total: 43,223",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Mauritius": {
+    "req": "Total: 43,025",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Mayotte": {
+    "req": "Total: 42,027",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Togo": {
+    "req": "Total: 39,572",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Guinea": {
+    "req": "Total: 38,572",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Bahamas": {
+    "req": "Total: 38,084",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Isle of Man": {
+    "req": "Total: 38,008",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Lesotho": {
+    "req": "Total: 36,138",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Haiti": {
+    "req": "Total: 34,667",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Faeroe Islands": {
+    "req": "Total: 34,658",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Mali": {
+    "req": "Total: 33,164",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Cayman Islands": {
+    "req": "Total: 31,472",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Saint Lucia": {
+    "req": "Total: 30,215",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Benin": {
+    "req": "Total: 28,036",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Macao": {
+    "req": "Total: 27,673",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Somalia": {
+    "req": "Total: 27,334",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Micronesia": {
+    "req": "Total: 26,547",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "San Marino": {
+    "req": "Total: 26,185",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Solomon Islands": {
+    "req": "Total: 25,954",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Congo": {
+    "req": "Total: 25,375",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Timor-Leste": {
+    "req": "Total: 23,460",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Burkina Faso": {
+    "req": "Total: 22,114",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Liechtenstein": {
+    "req": "Total: 21,574",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Gibraltar": {
+    "req": "Total: 20,550",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Grenada": {
+    "req": "Total: 19,693",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Bermuda": {
+    "req": "Total: 18,860",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "South Sudan": {
+    "req": "Total: 18,819",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Nicaragua": {
+    "req": "Total: 18,491",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Tajikistan": {
+    "req": "Total: 17,786",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Equatorial Guinea": {
+    "req": "Total: 17,229",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Monaco": {
+    "req": "Total: 17,181",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Samoa": {
+    "req": "Total: 17,006",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Tonga": {
+    "req": "Total: 16,950",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Marshall Islands": {
+    "req": "Total: 16,138",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Dominica": {
+    "req": "Total: 16,038",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Djibouti": {
+    "req": "Total: 15,690",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "CAR": {
+    "req": "Total: 15,440",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Gambia": {
+    "req": "Total: 12,626",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Saint Martin": {
+    "req": "Total: 12,324",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Vanuatu": {
+    "req": "Total: 12,019",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Greenland": {
+    "req": "Total: 11,971",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Yemen": {
+    "req": "Total: 11,945",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Caribbean Netherlands": {
+    "req": "Total: 11,682",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Sint Maarten": {
+    "req": "Total: 11,051",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Eritrea": {
+    "req": "Total: 10,189",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Niger": {
+    "req": "Total: 9,931",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "St. Vincent Grenadines": {
+    "req": "Total: 9,674",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Guinea-Bissau": {
+    "req": "Total: 9,614",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Comoros": {
+    "req": "Total: 9,109",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Antigua and Barbuda": {
+    "req": "Total: 9,106",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Liberia": {
+    "req": "Total: 8,090",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Sierra Leone": {
+    "req": "Total: 7,779",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Chad": {
+    "req": "Total: 7,701",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "British Virgin Islands": {
+    "req": "Total: 7,392",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Cook Islands": {
+    "req": "Total: 7,203",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Sao Tome and Principe": {
+    "req": "Total: 6,778",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Turks and Caicos": {
+    "req": "Total: 6,752",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Saint Kitts and Nevis": {
+    "req": "Total: 6,607",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Palau": {
+    "req": "Total: 6,290",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "St. Barth": {
+    "req": "Total: 5,507",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Nauru": {
+    "req": "Total: 5,393",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Kiribati": {
+    "req": "Total: 5,085",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Anguilla": {
+    "req": "Total: 3,904",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Wallis and Futuna": {
+    "req": "Total: 3,550",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Saint Pierre Miquelon": {
+    "req": "Total: 3,452",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Tuvalu": {
+    "req": "Total: 2,943",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Saint Helena": {
+    "req": "Total: 2,166",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Falkland Islands": {
+    "req": "Total: 1,930",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Montserrat": {
+    "req": "Total: 1,403",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Niue": {
+    "req": "Total: 1,059",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Diamond Princess": {
+    "req": "Total: 712",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Tokelau": {
+    "req": "Total: 80",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Vatican City": {
+    "req": "Total: 29",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "Western Sahara": {
+    "req": "Total: 10",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "MS Zaandam": {
+    "req": "Total: 9",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  },
+  "China": {
+    "req": "Total: 503,302",
+    "first_seen": "2026-06-23T20:56:40",
+    "last_changed": "2026-06-23T20:56:40"
+  }
+}

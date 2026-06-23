@@ -1,0 +1,11 @@
+{
+  "EXCHANGE_RATES": [
+    {
+      "course": "USD / GBP",
+      "kind": "changed",
+      "old_req": "9.9999",
+      "new_req": "1.32437",
+      "detected_at": "2026-06-23T21:14:28"
+    }
+  ]
+}

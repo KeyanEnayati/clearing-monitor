@@ -1,0 +1,67 @@
+name: Clearing Monitor
+
+# ── When to run ──────────────────────────────────────────────────────────────
+on:
+  schedule:
+    # Every 30 minutes.  GitHub Free gives 2 000 CI minutes/month for private
+    # repos; 30-min interval ≈ 1 440 runs/month × ~1 min each = safe.
+    # Change to '*/15 * * * *' if the repo is PUBLIC (unlimited free minutes).
+    - cron: '*/30 * * * *'
+
+  # Also lets you click "Run workflow" on the GitHub Actions tab for a
+  # manual test at any time.
+  workflow_dispatch:
+
+# Must write state JSON, Excel, and the HTML dashboard back to the repo.
+permissions:
+  contents: write
+
+# ── Job ───────────────────────────────────────────────────────────────────────
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8    # abort if something hangs
+
+    steps:
+      # 1. Get the latest repo contents (including previously committed state)
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # 2. Python with pip caching so installs are fast after the first run
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements_ci.txt
+
+      # 3. Install only what CI needs (no Selenium – exchange rates use plain HTTP)
+      - name: Install dependencies
+        run: pip install -r requirements_ci.txt
+
+      # 4. Single poll: scrape, detect changes, update Excel + state JSON
+      - name: Run monitor (single poll)
+        run: python main.py --once
+
+      # 5. Generate the HTML dashboard from current state + change history
+      - name: Generate HTML dashboard
+        run: python generate_dashboard.py
+
+      # 6. Commit any new files back to the repo so the next run sees them
+      - name: Commit and push changes
+        run: |
+          git config user.name  "Clearing Monitor Bot"
+          git config user.email "clearing-monitor@noreply.github.com"
+
+          # Stage everything the monitor may have written
+          git add data/ index.html clearing_data.xlsx heartbeat.json 2>/dev/null || true
+
+          # Only commit if something actually changed
+          if git diff --cached --quiet; then
+            echo "Nothing changed this poll – skipping commit."
+          else
+            git commit -m "Monitor update $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

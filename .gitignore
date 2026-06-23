@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment (too large for git)
+.venv/
+
+# Log files (can grow large; check locally with check_status.bat)
+logs/
