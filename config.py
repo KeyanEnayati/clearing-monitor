@@ -1,7 +1,10 @@
 """
 Clearing Monitor – Configuration
 =================================
-TEST_MODE = True   → exchange rate API (free, no browser, runs anywhere including GitHub)
+TEST_MODE = True   → ClinicalTrials.gov public API (real live data, no browser,
+                     runs anywhere including GitHub Actions). Uses UK recruiting
+                     trials as a stand-in for clearing courses: eligibility
+                     criteria text = entry requirements, status changes = changes.
 TEST_MODE = False  → real university clearing pages
 """
 
@@ -21,31 +24,34 @@ TEST_MODE = True   # flip to False for real clearing
 POLL_INTERVAL_MINUTES = 15
 
 if TEST_MODE:
-    # Three simulated competitor universities with realistic UK clearing data.
-    # Course names, grade structures, and drop patterns mirror real clearing.
-    # Requirements drop every ~30 min per course, staggered so 1-3 changes
-    # appear per poll – identical behaviour to the real production system.
+    # Real live data from ClinicalTrials.gov public API.
+    # Three categories of UK recruiting clinical trials, each becoming one tab.
+    # Trial name         → course name
+    # Eligibility text   → entry requirement (full descriptive paragraphs)
+    # Status change      → new column (identical pipeline to clearing day)
+    # Trial appearing    → "new course" row
+    # Trial completing   → "removed course" row
     UNIVERSITIES = {
-        "CLEARING_UNI_A": {
-            "name": "Birmingham City University (BCU)",
-            "clearing_url": "simulation://clearing_uni_a",
-            "scrape_method": "custom",   # parsers/clearing_uni_a.py
+        "TRIALS_CANCER": {
+            "name": "UK Cancer Trials",
+            "clearing_url": "https://clinicaltrials.gov/api/v2/studies",
+            "scrape_method": "custom",   # parsers/trials_cancer.py
             "requires_js":  False,
-            "notes":        "8 BCU courses with full A-level/GCSE requirements. Drops every ~30 min.",
+            "notes":        "Up to 8 UK recruiting cancer trials. Changes: status, eligibility amendments.",
         },
-        "CLEARING_UNI_B": {
-            "name": "Coventry University",
-            "clearing_url": "simulation://clearing_uni_b",
-            "scrape_method": "custom",   # parsers/clearing_uni_b.py
+        "TRIALS_CARDIO": {
+            "name": "UK Cardiovascular Trials",
+            "clearing_url": "https://clinicaltrials.gov/api/v2/studies",
+            "scrape_method": "custom",   # parsers/trials_cardio.py
             "requires_js":  False,
-            "notes":        "8 Coventry courses with full UCAS tariff requirements. Drops every ~30 min.",
+            "notes":        "Up to 8 UK recruiting cardiovascular trials.",
         },
-        "CLEARING_UNI_C": {
-            "name": "De Montfort University (DMU)",
-            "clearing_url": "simulation://clearing_uni_c",
-            "scrape_method": "custom",   # parsers/clearing_uni_c.py
+        "TRIALS_DIABETES": {
+            "name": "UK Diabetes Trials",
+            "clearing_url": "https://clinicaltrials.gov/api/v2/studies",
+            "scrape_method": "custom",   # parsers/trials_diabetes.py
             "requires_js":  False,
-            "notes":        "8 DMU courses, mixed A-level/BTEC/portfolio requirements. Drops every ~30 min.",
+            "notes":        "Up to 8 UK recruiting diabetes trials.",
         },
     }
 else:
