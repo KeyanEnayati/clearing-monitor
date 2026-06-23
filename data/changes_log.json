@@ -1,97 +1,267 @@
 {
-  "EXCHANGE_RATES": [
+  "CLEARING_UNI_A": [
     {
-      "course": "USD / GBP",
+      "course": "BSc (Hons) Computing",
       "kind": "changed",
-      "old_req": "9.9999",
-      "new_req": "1.32437",
-      "detected_at": "2026-06-23T21:14:28"
+      "old_req": "BBB or 120 UCAS tariff points. GCSE Mathematics B/5 and English Language C/4.",
+      "new_req": "BBC or 112 UCAS tariff points. GCSE Mathematics B/5 and English C/4. Non-standard qualifications considered \u2013 call 0121 331 5595.",
+      "detected_at": "2026-08-14T09:30:00"
+    },
+    {
+      "course": "BA (Hons) Business Management",
+      "kind": "changed",
+      "old_req": "BCC or 104 UCAS tariff points. GCSE Maths and English C/4. BTEC MMM accepted.",
+      "new_req": "CCC or 96 UCAS tariff points. GCSE Maths and English C/4. BTEC MMP accepted.",
+      "detected_at": "2026-08-14T09:30:00"
+    },
+    {
+      "course": "BSc (Hons) Nursing (Adult)",
+      "kind": "changed",
+      "old_req": "BBC or 112 UCAS tariff points. Science A-level preferred. Care experience required. Enhanced DBS check. Occupational Health assessment.",
+      "new_req": "BBC or 112 UCAS tariff points. Science A-level no longer mandatory for clearing. Relevant care experience required. Enhanced DBS and Occupational Health check.",
+      "detected_at": "2026-08-14T09:30:00"
+    },
+    {
+      "course": "BSc (Hons) Computing",
+      "kind": "changed",
+      "old_req": "BBC or 112 UCAS tariff points. GCSE Mathematics B/5 and English C/4. Non-standard qualifications considered \u2013 call 0121 331 5595.",
+      "new_req": "CLEARING VACANCY \u2013 BCC or 104 UCAS tariff points. GCSE Mathematics essential. Call BCU Clearing: 0121 331 5595.",
+      "detected_at": "2026-08-14T10:00:00"
+    },
+    {
+      "course": "LLB Law",
+      "kind": "changed",
+      "old_req": "ABB or 128 UCAS tariff points. No specific A-levels. GCSE English Language B/5.",
+      "new_req": "BBB or 120 UCAS tariff points. GCSE English Language B/5.",
+      "detected_at": "2026-08-14T10:00:00"
+    },
+    {
+      "course": "BSc (Hons) Nursing (Adult)",
+      "kind": "changed",
+      "old_req": "BBC or 112 UCAS tariff points. Science A-level no longer mandatory for clearing. Relevant care experience required. Enhanced DBS and Occupational Health check.",
+      "new_req": "CLEARING VACANCY \u2013 BCC or 104 tariff points. Care experience required. Enhanced DBS check required. Call 0121 331 5595.",
+      "detected_at": "2026-08-14T10:00:00"
+    },
+    {
+      "course": "BEng (Hons) Civil Engineering",
+      "kind": "changed",
+      "old_req": "BBB or 120 UCAS tariff points. Mathematics A-level required. GCSE Maths B/5.",
+      "new_req": "BBC or 112 UCAS tariff points. Mathematics A-level required. GCSE Maths 4.",
+      "detected_at": "2026-08-14T10:00:00"
+    },
+    {
+      "course": "BSc (Hons) Psychology",
+      "kind": "new",
+      "old_req": "",
+      "new_req": "BBC or 112 UCAS tariff points. GCSE English Language and Maths C/4. Psychology or Biology A-level desirable.",
+      "detected_at": "2026-08-14T10:00:00"
+    },
+    {
+      "course": "BSc (Hons) Computing",
+      "kind": "changed",
+      "old_req": "CLEARING VACANCY \u2013 BCC or 104 UCAS tariff points. GCSE Mathematics essential. Call BCU Clearing: 0121 331 5595.",
+      "new_req": "CLEARING \u2013 limited spaces remaining. 96 UCAS tariff points or above. GCSE Mathematics required. Call NOW: 0121 331 5595.",
+      "detected_at": "2026-08-14T10:30:00"
+    },
+    {
+      "course": "LLB Law",
+      "kind": "changed",
+      "old_req": "BBB or 120 UCAS tariff points. GCSE English Language B/5.",
+      "new_req": "CLEARING VACANCY \u2013 BBC or 112 tariff points. GCSE English Language C/4 accepted. All A-levels welcome. Call 0121 331 5595.",
+      "detected_at": "2026-08-14T10:30:00"
+    },
+    {
+      "course": "BEng (Hons) Civil Engineering",
+      "kind": "changed",
+      "old_req": "BBC or 112 UCAS tariff points. Mathematics A-level required. GCSE Maths 4.",
+      "new_req": "CLEARING VACANCY \u2013 BCC or 104 tariff points. Mathematics A-level required. GCSE Maths 4. Call 0121 331 5595.",
+      "detected_at": "2026-08-14T10:30:00"
+    },
+    {
+      "course": "BSc (Hons) Psychology",
+      "kind": "changed",
+      "old_req": "BBC or 112 UCAS tariff points. GCSE English Language and Maths C/4. Psychology or Biology A-level desirable.",
+      "new_req": "CLEARING VACANCY \u2013 BCC or 104 tariff points. Open to all A-level combinations. GCSE English and Maths required. Call 0121 331 5595.",
+      "detected_at": "2026-08-14T10:30:00"
     }
   ],
-  "CRYPTO_MARKETS": [
+  "CLEARING_UNI_B": [
     {
-      "course": "Bitcoin",
+      "course": "BSc (Hons) Computer Science",
       "kind": "changed",
-      "old_req": "GBP 47,263.00",
-      "new_req": "GBP 47,257.00",
-      "detected_at": "2026-06-23T21:37:14"
+      "old_req": "ABB or 136 UCAS tariff points. Mathematics A-level grade B or above. GCSE Maths 5.",
+      "new_req": "BBB or 120 UCAS tariff points. Mathematics A-level required. GCSE Maths 4.",
+      "detected_at": "2026-08-14T09:30:00"
     },
     {
-      "course": "Ethereum",
+      "course": "BA (Hons) International Business",
       "kind": "changed",
-      "old_req": "GBP 1,258.09",
-      "new_req": "GBP 1,257.76",
-      "detected_at": "2026-06-23T21:37:14"
+      "old_req": "BBB or 120 UCAS tariff points. No specific A-levels. GCSE English Language and Maths 4.",
+      "new_req": "BBC or 112 UCAS tariff points. GCSE English Language and Maths 4.",
+      "detected_at": "2026-08-14T09:30:00"
     },
     {
-      "course": "BNB",
+      "course": "BSc (Hons) Sport and Exercise Science",
       "kind": "changed",
-      "old_req": "GBP 436.02",
-      "new_req": "GBP 435.92",
-      "detected_at": "2026-06-23T21:37:14"
+      "old_req": "BBC or 112 UCAS tariff points. PE or Biology preferred. GCSE Maths 4.",
+      "new_req": "BCC or 104 UCAS tariff points. GCSE English Language and Maths 4.",
+      "detected_at": "2026-08-14T09:30:00"
     },
     {
-      "course": "Solana",
+      "course": "MPharm Pharmacy (4 years)",
       "kind": "changed",
-      "old_req": "GBP 52.20",
-      "new_req": "GBP 52.18",
-      "detected_at": "2026-06-23T21:37:14"
+      "old_req": "AAB or 152 UCAS tariff points. Chemistry A-level at grade A required. Interview required.",
+      "new_req": "ABB or 136 UCAS tariff points. Chemistry A-level required. Interview required.",
+      "detected_at": "2026-08-14T09:30:00"
     },
     {
-      "course": "Hyperliquid",
+      "course": "BSc (Hons) Computer Science",
       "kind": "changed",
-      "old_req": "GBP 47.42",
-      "new_req": "GBP 47.40",
-      "detected_at": "2026-06-23T21:37:14"
+      "old_req": "BBB or 120 UCAS tariff points. Mathematics A-level required. GCSE Maths 4.",
+      "new_req": "CLEARING VACANCY \u2013 BBC or 112 tariff points. Mathematics A-level required. Call Coventry Clearing: 02477 655 645.",
+      "detected_at": "2026-08-14T10:00:00"
     },
     {
-      "course": "Zcash",
+      "course": "BSc (Hons) Sport and Exercise Science",
       "kind": "changed",
-      "old_req": "GBP 316.71",
-      "new_req": "GBP 316.54",
-      "detected_at": "2026-06-23T21:37:14"
+      "old_req": "BCC or 104 UCAS tariff points. GCSE English Language and Maths 4.",
+      "new_req": "CLEARING VACANCY \u2013 CCC or 96 tariff points. Call 02477 655 645.",
+      "detected_at": "2026-08-14T10:00:00"
     },
     {
-      "course": "Bitcoin",
+      "course": "MPharm Pharmacy (4 years)",
       "kind": "changed",
-      "old_req": "GBP 47,257.00",
-      "new_req": "GBP 47,395.00",
-      "detected_at": "2026-06-23T21:54:17"
+      "old_req": "ABB or 136 UCAS tariff points. Chemistry A-level required. Interview required.",
+      "new_req": "BBB or 120 UCAS tariff points. Chemistry A-level required. Interview required.",
+      "detected_at": "2026-08-14T10:00:00"
     },
     {
-      "course": "Ethereum",
-      "kind": "changed",
-      "old_req": "GBP 1,257.76",
-      "new_req": "GBP 1,261.23",
-      "detected_at": "2026-06-23T21:54:17"
+      "course": "BA (Hons) Criminology",
+      "kind": "new",
+      "old_req": "",
+      "new_req": "BCC or 104 UCAS tariff points. No specific A-levels. GCSE English Language and Maths 4.",
+      "detected_at": "2026-08-14T10:00:00"
     },
     {
-      "course": "BNB",
+      "course": "BSc (Hons) Computer Science",
       "kind": "changed",
-      "old_req": "GBP 435.92",
-      "new_req": "GBP 436.71",
-      "detected_at": "2026-06-23T21:54:17"
+      "old_req": "CLEARING VACANCY \u2013 BBC or 112 tariff points. Mathematics A-level required. Call Coventry Clearing: 02477 655 645.",
+      "new_req": "CLEARING \u2013 final spaces. BCC or equivalent. Mathematics A-level required. Call 02477 655 645.",
+      "detected_at": "2026-08-14T10:30:00"
     },
     {
-      "course": "Solana",
+      "course": "MPharm Pharmacy (4 years)",
       "kind": "changed",
-      "old_req": "GBP 52.18",
-      "new_req": "GBP 52.38",
-      "detected_at": "2026-06-23T21:54:17"
+      "old_req": "BBB or 120 UCAS tariff points. Chemistry A-level required. Interview required.",
+      "new_req": "CLEARING VACANCY \u2013 BBB or 120 tariff points. Chemistry A-level required. Interview required. Call 02477 655 645.",
+      "detected_at": "2026-08-14T10:30:00"
     },
     {
-      "course": "Hyperliquid",
+      "course": "BA (Hons) Criminology",
       "kind": "changed",
-      "old_req": "GBP 47.40",
-      "new_req": "GBP 47.09",
-      "detected_at": "2026-06-23T21:54:17"
+      "old_req": "BCC or 104 UCAS tariff points. No specific A-levels. GCSE English Language and Maths 4.",
+      "new_req": "CCC or 96 UCAS tariff points. GCSE English Language and Maths 4.",
+      "detected_at": "2026-08-14T10:30:00"
+    }
+  ],
+  "CLEARING_UNI_C": [
+    {
+      "course": "BSc (Hons) Data Science",
+      "kind": "changed",
+      "old_req": "BBB or 120 UCAS tariff points. Mathematics A-level strongly recommended. GCSE Maths 5.",
+      "new_req": "BBC or 112 UCAS tariff points. Mathematics A-level recommended but not required. GCSE Maths 4.",
+      "detected_at": "2026-08-14T09:30:00"
     },
     {
-      "course": "Zcash",
+      "course": "BA (Hons) Accounting and Finance",
       "kind": "changed",
-      "old_req": "GBP 316.54",
-      "new_req": "GBP 316.33",
-      "detected_at": "2026-06-23T21:54:17"
+      "old_req": "BBB or 120 UCAS tariff points. Maths or Business A-level preferred. GCSE Maths B/5.",
+      "new_req": "BBC or 112 UCAS tariff points. Maths or Business background preferred. GCSE Maths B/5.",
+      "detected_at": "2026-08-14T09:30:00"
+    },
+    {
+      "course": "BEng (Hons) Electronic Engineering",
+      "kind": "changed",
+      "old_req": "BBB or 120 UCAS tariff points. Mathematics and Physics A-levels required. GCSE Maths B/5.",
+      "new_req": "BBC or 112 UCAS tariff points. Mathematics A-level required. GCSE Maths 5.",
+      "detected_at": "2026-08-14T09:30:00"
+    },
+    {
+      "course": "BSc (Hons) Architecture (ARB/RIBA Part 1)",
+      "kind": "changed",
+      "old_req": "ABB or 128 UCAS tariff points. Portfolio of creative/technical work required. GCSE English and Maths C/4.",
+      "new_req": "ABB or 128 UCAS tariff points. Portfolio required. GCSE English and Maths C/4.",
+      "detected_at": "2026-08-14T09:30:00"
+    },
+    {
+      "course": "BSc (Hons) Data Science",
+      "kind": "changed",
+      "old_req": "BBC or 112 UCAS tariff points. Mathematics A-level recommended but not required. GCSE Maths 4.",
+      "new_req": "CLEARING VACANCY \u2013 BCC or 104 tariff points. GCSE Maths essential. Call DMU Clearing: 0116 250 6070.",
+      "detected_at": "2026-08-14T10:00:00"
+    },
+    {
+      "course": "BA (Hons) Accounting and Finance",
+      "kind": "changed",
+      "old_req": "BBC or 112 UCAS tariff points. Maths or Business background preferred. GCSE Maths B/5.",
+      "new_req": "CLEARING VACANCY \u2013 BCC or 104 tariff points. Call 0116 250 6070.",
+      "detected_at": "2026-08-14T10:00:00"
+    },
+    {
+      "course": "BEng (Hons) Electronic Engineering",
+      "kind": "changed",
+      "old_req": "BBC or 112 UCAS tariff points. Mathematics A-level required. GCSE Maths 5.",
+      "new_req": "CLEARING VACANCY \u2013 BCC or 104 tariff points. Mathematics A-level required. Call 0116 250 6070.",
+      "detected_at": "2026-08-14T10:00:00"
+    },
+    {
+      "course": "BSc (Hons) Architecture (ARB/RIBA Part 1)",
+      "kind": "changed",
+      "old_req": "ABB or 128 UCAS tariff points. Portfolio required. GCSE English and Maths C/4.",
+      "new_req": "BBB or 120 UCAS tariff points. Portfolio required. Creative or scientific A-level preferred.",
+      "detected_at": "2026-08-14T10:00:00"
+    },
+    {
+      "course": "BSc (Hons) Environmental Science",
+      "kind": "new",
+      "old_req": "",
+      "new_req": "BBC or 112 UCAS tariff points. Science A-level preferred. GCSE Maths and English C/4.",
+      "detected_at": "2026-08-14T10:00:00"
+    },
+    {
+      "course": "BA (Hons) Accounting and Finance",
+      "kind": "changed",
+      "old_req": "CLEARING VACANCY \u2013 BCC or 104 tariff points. Call 0116 250 6070.",
+      "new_req": "CLEARING \u2013 final spaces. CCC or 96 tariff points. Call 0116 250 6070.",
+      "detected_at": "2026-08-14T10:30:00"
+    },
+    {
+      "course": "BEng (Hons) Electronic Engineering",
+      "kind": "changed",
+      "old_req": "CLEARING VACANCY \u2013 BCC or 104 tariff points. Mathematics A-level required. Call 0116 250 6070.",
+      "new_req": "CLEARING \u2013 final spaces. BBC or equivalent. Mathematics required. Call 0116 250 6070.",
+      "detected_at": "2026-08-14T10:30:00"
+    },
+    {
+      "course": "BSc (Hons) Architecture (ARB/RIBA Part 1)",
+      "kind": "changed",
+      "old_req": "BBB or 120 UCAS tariff points. Portfolio required. Creative or scientific A-level preferred.",
+      "new_req": "CLEARING VACANCY \u2013 BBC or 112 tariff points. Portfolio required. Call 0116 250 6070.",
+      "detected_at": "2026-08-14T10:30:00"
+    },
+    {
+      "course": "BSc (Hons) Environmental Science",
+      "kind": "changed",
+      "old_req": "BBC or 112 UCAS tariff points. Science A-level preferred. GCSE Maths and English C/4.",
+      "new_req": "CLEARING VACANCY \u2013 BCC or 104 tariff points. Science A-level welcomed. Call 0116 250 6070.",
+      "detected_at": "2026-08-14T10:30:00"
+    },
+    {
+      "course": "BA (Hons) Fashion Design",
+      "kind": "new",
+      "old_req": "",
+      "new_req": "CCC or 96 UCAS tariff points. Art or Design A-level. Portfolio required. GCSE English C/4.",
+      "detected_at": "2026-08-14T10:30:00"
     }
   ]
 }

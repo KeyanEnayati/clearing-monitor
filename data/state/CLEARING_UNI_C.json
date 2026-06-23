@@ -1,42 +1,27 @@
 {
-  "BSc (Hons) Data Science": {
-    "req": "BBB or 120 UCAS tariff points. Mathematics A-level strongly recommended. GCSE Maths at grade 5 or above. GCSE English Language at grade 4.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
-  },
   "BA (Hons) Accounting and Finance": {
-    "req": "BBB or 120 UCAS tariff points. Mathematics or Business A-level preferred. GCSE Maths at grade B/5 and English Language at grade C/4.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
+    "req": "CLEARING – final spaces. CCC or 96 tariff points. Call 0116 250 6070.",
+    "first_seen": "2026-06-23T23:41:38",
+    "last_changed": "2026-06-23T23:41:39"
   },
   "BEng (Hons) Electronic Engineering": {
-    "req": "BBB or 120 UCAS tariff points. Mathematics and Physics A-levels both required. GCSE Maths at grade B/5.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
-  },
-  "BSc (Hons) Biomedical Science": {
-    "req": "BBB or 120 UCAS tariff points. Biology or Chemistry A-level required. GCSE Science and Maths at grade B/5. GCSE English Language grade C/4.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
+    "req": "CLEARING – final spaces. BBC or equivalent. Mathematics required. Call 0116 250 6070.",
+    "first_seen": "2026-06-23T23:41:38",
+    "last_changed": "2026-06-23T23:41:39"
   },
   "BSc (Hons) Architecture (ARB/RIBA Part 1)": {
-    "req": "ABB or 128 UCAS tariff points. Art, Design, Maths, or Physics A-level preferred. Portfolio of creative/technical work required – assessed before offer. GCSE English Language and Maths at grade C/4.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
-  },
-  "BA (Hons) Fashion Design": {
-    "req": "BCC or 104 UCAS tariff points. Art, Design, or Textiles A-level strongly preferred. Portfolio of creative work required – assessed before offer. GCSE English Language and Maths at grade C/4.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
+    "req": "CLEARING VACANCY – BBC or 112 tariff points. Portfolio required. Call 0116 250 6070.",
+    "first_seen": "2026-06-23T23:41:38",
+    "last_changed": "2026-06-23T23:41:39"
   },
   "BSc (Hons) Environmental Science": {
-    "req": "BBC or 112 UCAS tariff points. Science A-level preferred (Biology, Chemistry, Geography, or Environmental Science). GCSE Maths and English Language at grade C/4.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
+    "req": "CLEARING VACANCY – BCC or 104 tariff points. Science A-level welcomed. Call 0116 250 6070.",
+    "first_seen": "2026-06-23T23:41:39",
+    "last_changed": "2026-06-23T23:41:39"
   },
-  "BA (Hons) Music Technology": {
-    "req": "BCC or 104 UCAS tariff points. Music, Physics, or Computing A-level preferred. Portfolio or audition piece may be required. GCSE English Language and Maths at grade C/4.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
+  "BA (Hons) Fashion Design": {
+    "req": "CCC or 96 UCAS tariff points. Art or Design A-level. Portfolio required. GCSE English C/4.",
+    "first_seen": "2026-06-23T23:41:39",
+    "last_changed": "2026-06-23T23:41:39"
   }
 }

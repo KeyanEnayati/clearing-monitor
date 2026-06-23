@@ -1,42 +1,17 @@
 {
   "BSc (Hons) Computer Science": {
-    "req": "ABB or 136 UCAS tariff points. Mathematics A-level at grade B or above required. GCSE Maths at grade 5 and English Language at grade 4.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
-  },
-  "BA (Hons) International Business": {
-    "req": "BBB or 120 UCAS tariff points. No specific A-level subjects required. GCSE English Language and Maths at grade 4. Modern language A-level or international work experience desirable.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
-  },
-  "BEng (Hons) Mechanical Engineering": {
-    "req": "BBB or 120 UCAS tariff points. Mathematics and Physics A-levels both required. GCSE Maths at grade 6.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
-  },
-  "BSc (Hons) Sport and Exercise Science": {
-    "req": "BBC or 112 UCAS tariff points. GCSE English Language and Maths at grade 4. Physical Education, Biology, or Sport Science A-level preferred.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
-  },
-  "BA (Hons) Criminology": {
-    "req": "BBC or 112 UCAS tariff points. No specific A-level subjects required. GCSE English Language and Maths at grade 4.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
+    "req": "CLEARING – final spaces. BCC or equivalent. Mathematics A-level required. Call 02477 655 645.",
+    "first_seen": "2026-06-23T23:41:38",
+    "last_changed": "2026-06-23T23:41:39"
   },
   "MPharm Pharmacy (4 years)": {
-    "req": "AAB or 152 UCAS tariff points. Chemistry A-level at grade A required. Biology or Mathematics A-level preferred. GCSE Maths and English Language at grade 5. Interview required for all applicants.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
+    "req": "CLEARING VACANCY – BBB or 120 tariff points. Chemistry A-level required. Interview required. Call 02477 655 645.",
+    "first_seen": "2026-06-23T23:41:38",
+    "last_changed": "2026-06-23T23:41:39"
   },
-  "BA (Hons) Graphic Design": {
-    "req": "BBC or 112 UCAS tariff points. Art, Design, or Media A-level preferred. Portfolio of creative work required and assessed before offer. GCSE English Language and Maths at grade 4.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
-  },
-  "BA (Hons) Media and Communications": {
-    "req": "BCC or 104 UCAS tariff points. Media, English, Film, or creative subject A-level preferred. GCSE English Language at grade 4. Personal statement should demonstrate genuine media interest.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
+  "BA (Hons) Criminology": {
+    "req": "CCC or 96 UCAS tariff points. GCSE English Language and Maths 4.",
+    "first_seen": "2026-06-23T23:41:39",
+    "last_changed": "2026-06-23T23:41:39"
   }
 }

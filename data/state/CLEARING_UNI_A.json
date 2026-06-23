@@ -1,42 +1,27 @@
 {
   "BSc (Hons) Computing": {
-    "req": "BBB or 120 UCAS tariff points from 3 A-levels. GCSE Mathematics grade B/5 and English Language grade C/4 required. No specific A-level subjects required.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
-  },
-  "BA (Hons) Business Management": {
-    "req": "BCC or 104 UCAS tariff points from 3 A-levels. GCSE Maths and English Language grade C/4. BTEC Extended Diploma at MMM or equivalent accepted.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
-  },
-  "BSc (Hons) Nursing (Adult)": {
-    "req": "BBC or 112 UCAS tariff points. One science A-level preferred (Biology, Chemistry, or Health & Social Care). GCSE English Language and Maths at grade C/4. Relevant care experience required. Enhanced DBS check and Occupational Health assessment required.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
+    "req": "CLEARING – limited spaces remaining. 96 UCAS tariff points or above. GCSE Mathematics required. Call NOW: 0121 331 5595.",
+    "first_seen": "2026-06-23T23:41:38",
+    "last_changed": "2026-06-23T23:41:39"
   },
   "LLB Law": {
-    "req": "ABB or 128 UCAS tariff points. No specific A-level subjects required; critical thinking or essay-based subjects preferred. GCSE English Language at grade B/5 or above.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
+    "req": "CLEARING VACANCY – BBC or 112 tariff points. GCSE English Language C/4 accepted. All A-levels welcome. Call 0121 331 5595.",
+    "first_seen": "2026-06-23T23:41:38",
+    "last_changed": "2026-06-23T23:41:39"
+  },
+  "BSc (Hons) Nursing (Adult)": {
+    "req": "CLEARING VACANCY – BCC or 104 tariff points. Care experience required. Enhanced DBS check required. Call 0121 331 5595.",
+    "first_seen": "2026-06-23T23:41:38",
+    "last_changed": "2026-06-23T23:41:39"
   },
   "BEng (Hons) Civil Engineering": {
-    "req": "BBB or 120 UCAS tariff points. Mathematics A-level required. Science A-level preferred. GCSE Mathematics at grade B/5.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
+    "req": "CLEARING VACANCY – BCC or 104 tariff points. Mathematics A-level required. GCSE Maths 4. Call 0121 331 5595.",
+    "first_seen": "2026-06-23T23:41:38",
+    "last_changed": "2026-06-23T23:41:39"
   },
   "BSc (Hons) Psychology": {
-    "req": "BBB or 120 UCAS tariff points. No specific A-level subjects required. GCSE English Language and Maths at grade C/4. Psychology, Biology, or Sociology A-level desirable.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
-  },
-  "BA (Hons) Marketing": {
-    "req": "BBC or 112 UCAS tariff points. No specific A-level subjects required. GCSE Maths and English Language at grade C/4.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
-  },
-  "BA (Hons) Education Studies": {
-    "req": "BCC or 104 UCAS tariff points. GCSE English Language and Maths at grade C/4. Experience in educational or community settings desirable.",
-    "first_seen": "2026-06-23T23:16:17",
-    "last_changed": "2026-06-23T23:16:17"
+    "req": "CLEARING VACANCY – BCC or 104 tariff points. Open to all A-level combinations. GCSE English and Maths required. Call 0121 331 5595.",
+    "first_seen": "2026-06-23T23:41:39",
+    "last_changed": "2026-06-23T23:41:39"
   }
 }
