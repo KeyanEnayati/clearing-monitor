@@ -22,15 +22,31 @@ POLL_INTERVAL_MINUTES = 15
 
 if TEST_MODE:
     UNIVERSITIES = {
-        # Exchange rates vs GBP – updates daily, no browser needed, works on GitHub.
-        # Currency code = Course name.  Rate = Entry requirement (numeric, changes daily).
-        # Perfect structural analog: a named list of things each with a changing number.
+        # ── Test source 1: GBP exchange rates (updates daily) ──────────────
         "EXCHANGE_RATES": {
-            "name": "Currency Rates vs GBP (TEST)",
+            "name": "Competitor A – GBP Exchange Rates",
             "clearing_url": "https://open.er-api.com/v6/latest/GBP",
-            "scrape_method": "custom",   # uses parsers/exchange_rates.py
+            "scrape_method": "custom",   # parsers/exchange_rates.py
             "requires_js":  False,
-            "notes":        "No browser needed. Rates update daily – inject_change.py for instant demo.",
+            "notes":        "20 currencies vs GBP. Updates once daily.",
+        },
+        # ── Test source 2: Crypto market prices (updates every ~5 min) ─────
+        # Best for live demo – prices change frequently, just like UCAS points
+        # drop during clearing as universities fill spaces.
+        "CRYPTO_MARKETS": {
+            "name": "Competitor B – Crypto Markets",
+            "clearing_url": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=gbp",
+            "scrape_method": "custom",   # parsers/crypto_markets.py
+            "requires_js":  False,
+            "notes":        "Top 15 coins in GBP. Updates every ~5 min.",
+        },
+        # ── Test source 3: EUR exchange rates (updates daily) ──────────────
+        "EUR_RATES": {
+            "name": "Competitor C – EUR Exchange Rates",
+            "clearing_url": "https://api.frankfurter.app/latest?from=EUR",
+            "scrape_method": "custom",   # parsers/eur_rates.py
+            "requires_js":  False,
+            "notes":        "15 currencies vs EUR. Updates once daily.",
         },
     }
 else:

@@ -1,0 +1,4952 @@
+[
+  {
+    "slot": "Check 1",
+    "scraped_at": "2026-06-23T20:08:44",
+    "courses": [
+      {
+        "course": "North America",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Asia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Europe",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "South America",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Oceania",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Africa",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "World",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "USA",
+        "entry_req": "2,348"
+      },
+      {
+        "course": "India",
+        "entry_req": "0.4"
+      },
+      {
+        "course": "France",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Germany",
+        "entry_req": "4,833"
+      },
+      {
+        "course": "Brazil",
+        "entry_req": "8,281"
+      },
+      {
+        "course": "S. Korea",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Japan",
+        "entry_req": "95,582"
+      },
+      {
+        "course": "Italy",
+        "entry_req": "2,747"
+      },
+      {
+        "course": "UK",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Russia",
+        "entry_req": "1,205"
+      },
+      {
+        "course": "Turkey",
+        "entry_req": "4,024"
+      },
+      {
+        "course": "Spain",
+        "entry_req": "656"
+      },
+      {
+        "course": "Australia",
+        "entry_req": "334"
+      },
+      {
+        "course": "Vietnam",
+        "entry_req": "9,510"
+      },
+      {
+        "course": "Taiwan",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Argentina",
+        "entry_req": "16"
+      },
+      {
+        "course": "Netherlands",
+        "entry_req": "11"
+      },
+      {
+        "course": "Mexico",
+        "entry_req": "3,557"
+      },
+      {
+        "course": "Iran",
+        "entry_req": "1,199"
+      },
+      {
+        "course": "Indonesia",
+        "entry_req": "72"
+      },
+      {
+        "course": "Poland",
+        "entry_req": "31,941"
+      },
+      {
+        "course": "Colombia",
+        "entry_req": "870"
+      },
+      {
+        "course": "Greece",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Austria",
+        "entry_req": "420"
+      },
+      {
+        "course": "Portugal",
+        "entry_req": "13"
+      },
+      {
+        "course": "Ukraine",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Chile",
+        "entry_req": "3,528"
+      },
+      {
+        "course": "Malaysia",
+        "entry_req": "235"
+      },
+      {
+        "course": "Canada",
+        "entry_req": "150"
+      },
+      {
+        "course": "Belgium",
+        "entry_req": "45"
+      },
+      {
+        "course": "Israel",
+        "entry_req": "3,280"
+      },
+      {
+        "course": "DPRK",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Thailand",
+        "entry_req": "613"
+      },
+      {
+        "course": "Czechia",
+        "entry_req": "30"
+      },
+      {
+        "course": "Peru",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Switzerland",
+        "entry_req": "33"
+      },
+      {
+        "course": "Philippines",
+        "entry_req": "55"
+      },
+      {
+        "course": "South Africa",
+        "entry_req": "1,010"
+      },
+      {
+        "course": "Romania",
+        "entry_req": "35"
+      },
+      {
+        "course": "Denmark",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Singapore",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Hong Kong",
+        "entry_req": "878"
+      },
+      {
+        "course": "Sweden",
+        "entry_req": "23"
+      },
+      {
+        "course": "New Zealand",
+        "entry_req": "331"
+      },
+      {
+        "course": "Serbia",
+        "entry_req": "45"
+      },
+      {
+        "course": "Iraq",
+        "entry_req": "16"
+      },
+      {
+        "course": "Hungary",
+        "entry_req": "3,022"
+      },
+      {
+        "course": "Bangladesh",
+        "entry_req": "-168.58"
+      },
+      {
+        "course": "Slovakia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Georgia",
+        "entry_req": "17,130"
+      },
+      {
+        "course": "Jordan",
+        "entry_req": "181"
+      },
+      {
+        "course": "Ireland",
+        "entry_req": "34"
+      },
+      {
+        "course": "Pakistan",
+        "entry_req": "55"
+      },
+      {
+        "course": "Finland",
+        "entry_req": "31"
+      },
+      {
+        "course": "Norway",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Kazakhstan",
+        "entry_req": "779"
+      },
+      {
+        "course": "Lithuania",
+        "entry_req": "162"
+      },
+      {
+        "course": "Slovenia",
+        "entry_req": "11"
+      },
+      {
+        "course": "Bulgaria",
+        "entry_req": "1,192"
+      },
+      {
+        "course": "Croatia",
+        "entry_req": "8,033"
+      },
+      {
+        "course": "Guatemala",
+        "entry_req": "60"
+      },
+      {
+        "course": "Morocco",
+        "entry_req": "173"
+      },
+      {
+        "course": "Lebanon",
+        "entry_req": "21,736"
+      },
+      {
+        "course": "Costa Rica",
+        "entry_req": "71,154"
+      },
+      {
+        "course": "Bolivia",
+        "entry_req": "1,049"
+      },
+      {
+        "course": "Tunisia",
+        "entry_req": "1,157"
+      },
+      {
+        "course": "Cuba",
+        "entry_req": "5"
+      },
+      {
+        "course": "Ecuador",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "UAE",
+        "entry_req": "1,007"
+      },
+      {
+        "course": "Panama",
+        "entry_req": "14"
+      },
+      {
+        "course": "Uruguay",
+        "entry_req": "716"
+      },
+      {
+        "course": "Mongolia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Nepal",
+        "entry_req": "3"
+      },
+      {
+        "course": "Belarus",
+        "entry_req": "141"
+      },
+      {
+        "course": "Latvia",
+        "entry_req": "2,371"
+      },
+      {
+        "course": "Saudi Arabia",
+        "entry_req": "109"
+      },
+      {
+        "course": "Paraguay",
+        "entry_req": "16,306"
+      },
+      {
+        "course": "Azerbaijan",
+        "entry_req": "72"
+      },
+      {
+        "course": "Bahrain",
+        "entry_req": "34"
+      },
+      {
+        "course": "Cyprus",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Dominican Republic",
+        "entry_req": "17"
+      },
+      {
+        "course": "Sri Lanka",
+        "entry_req": "0.2"
+      },
+      {
+        "course": "Kuwait",
+        "entry_req": "993"
+      },
+      {
+        "course": "Myanmar",
+        "entry_req": "40"
+      },
+      {
+        "course": "Moldova",
+        "entry_req": "29,599"
+      },
+      {
+        "course": "Estonia",
+        "entry_req": "75,708"
+      },
+      {
+        "course": "Palestine",
+        "entry_req": "30"
+      },
+      {
+        "course": "Venezuela",
+        "entry_req": "10"
+      },
+      {
+        "course": "Egypt",
+        "entry_req": "464"
+      },
+      {
+        "course": "Qatar",
+        "entry_req": "49"
+      },
+      {
+        "course": "Libya",
+        "entry_req": "0.3"
+      },
+      {
+        "course": "Ethiopia",
+        "entry_req": "45"
+      },
+      {
+        "course": "Réunion",
+        "entry_req": "82,706"
+      },
+      {
+        "course": "Honduras",
+        "entry_req": "32,372"
+      },
+      {
+        "course": "Armenia",
+        "entry_req": "2,655"
+      },
+      {
+        "course": "Bosnia and Herzegovina",
+        "entry_req": "2,506"
+      },
+      {
+        "course": "Oman",
+        "entry_req": "1,907"
+      },
+      {
+        "course": "Luxembourg",
+        "entry_req": "114,124"
+      },
+      {
+        "course": "North Macedonia",
+        "entry_req": "1,693"
+      },
+      {
+        "course": "Zambia",
+        "entry_req": "201"
+      },
+      {
+        "course": "Kenya",
+        "entry_req": "20"
+      },
+      {
+        "course": "Brunei",
+        "entry_req": "224,261"
+      },
+      {
+        "course": "Albania",
+        "entry_req": "358"
+      },
+      {
+        "course": "Botswana",
+        "entry_req": "323"
+      },
+      {
+        "course": "Montenegro",
+        "entry_req": "3,029"
+      },
+      {
+        "course": "Algeria",
+        "entry_req": "1,810"
+      },
+      {
+        "course": "Nigeria",
+        "entry_req": "19"
+      },
+      {
+        "course": "Zimbabwe",
+        "entry_req": "113"
+      },
+      {
+        "course": "Uzbekistan",
+        "entry_req": "307"
+      },
+      {
+        "course": "Afghanistan",
+        "entry_req": "370"
+      },
+      {
+        "course": "Mozambique",
+        "entry_req": "81"
+      },
+      {
+        "course": "Martinique",
+        "entry_req": "612,553"
+      },
+      {
+        "course": "Laos",
+        "entry_req": "28,145"
+      },
+      {
+        "course": "Iceland",
+        "entry_req": "387,941"
+      },
+      {
+        "course": "Kyrgyzstan",
+        "entry_req": "1,115"
+      },
+      {
+        "course": "Guadeloupe",
+        "entry_req": "500,168"
+      },
+      {
+        "course": "El Salvador",
+        "entry_req": "2,781"
+      },
+      {
+        "course": "Trinidad and Tobago",
+        "entry_req": "20"
+      },
+      {
+        "course": "Maldives",
+        "entry_req": "41,944"
+      },
+      {
+        "course": "Namibia",
+        "entry_req": "450"
+      },
+      {
+        "course": "Uganda",
+        "entry_req": "1,406"
+      },
+      {
+        "course": "Ghana",
+        "entry_req": "0.06"
+      },
+      {
+        "course": "Jamaica",
+        "entry_req": "16,712"
+      },
+      {
+        "course": "Cambodia",
+        "entry_req": "0.2"
+      },
+      {
+        "course": "Rwanda",
+        "entry_req": "0.8"
+      },
+      {
+        "course": "Cameroon",
+        "entry_req": "4"
+      },
+      {
+        "course": "Malta",
+        "entry_req": "869"
+      },
+      {
+        "course": "Barbados",
+        "entry_req": "4,455"
+      },
+      {
+        "course": "Angola",
+        "entry_req": "56"
+      },
+      {
+        "course": "Channel Islands",
+        "entry_req": "952"
+      },
+      {
+        "course": "DRC",
+        "entry_req": "140"
+      },
+      {
+        "course": "French Guiana",
+        "entry_req": "274,906"
+      },
+      {
+        "course": "Malawi",
+        "entry_req": "16"
+      },
+      {
+        "course": "Senegal",
+        "entry_req": "3"
+      },
+      {
+        "course": "Ivory Coast",
+        "entry_req": "2"
+      },
+      {
+        "course": "Suriname",
+        "entry_req": "52,623"
+      },
+      {
+        "course": "New Caledonia",
+        "entry_req": "498"
+      },
+      {
+        "course": "French Polynesia",
+        "entry_req": "158,725"
+      },
+      {
+        "course": "Eswatini",
+        "entry_req": "547"
+      },
+      {
+        "course": "Guyana",
+        "entry_req": "1,038"
+      },
+      {
+        "course": "Belize",
+        "entry_req": "1,543"
+      },
+      {
+        "course": "Fiji",
+        "entry_req": "1,106"
+      },
+      {
+        "course": "Madagascar",
+        "entry_req": "7"
+      },
+      {
+        "course": "Cabo Verde",
+        "entry_req": "537"
+      },
+      {
+        "course": "Sudan",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Mauritania",
+        "entry_req": "78"
+      },
+      {
+        "course": "Bhutan",
+        "entry_req": "1,411"
+      },
+      {
+        "course": "Syria",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Burundi",
+        "entry_req": "88"
+      },
+      {
+        "course": "Seychelles",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Gabon",
+        "entry_req": "30"
+      },
+      {
+        "course": "Andorra",
+        "entry_req": "3,705"
+      },
+      {
+        "course": "Papua New Guinea",
+        "entry_req": "3"
+      },
+      {
+        "course": "Curaçao",
+        "entry_req": "5,866"
+      },
+      {
+        "course": "Aruba",
+        "entry_req": "13,884"
+      },
+      {
+        "course": "Tanzania",
+        "entry_req": "667"
+      },
+      {
+        "course": "Mauritius",
+        "entry_req": "546"
+      },
+      {
+        "course": "Mayotte",
+        "entry_req": "135,804"
+      },
+      {
+        "course": "Togo",
+        "entry_req": "0.1"
+      },
+      {
+        "course": "Guinea",
+        "entry_req": "25"
+      },
+      {
+        "course": "Bahamas",
+        "entry_req": "2,182"
+      },
+      {
+        "course": "Isle of Man",
+        "entry_req": "129,450"
+      },
+      {
+        "course": "Lesotho",
+        "entry_req": "4,337"
+      },
+      {
+        "course": "Haiti",
+        "entry_req": "6"
+      },
+      {
+        "course": "Faeroe Islands",
+        "entry_req": "547,133"
+      },
+      {
+        "course": "Mali",
+        "entry_req": "4"
+      },
+      {
+        "course": "Cayman Islands",
+        "entry_req": "340,116"
+      },
+      {
+        "course": "Saint Lucia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Benin",
+        "entry_req": "2"
+      },
+      {
+        "course": "Macao",
+        "entry_req": "36,050"
+      },
+      {
+        "course": "Somalia",
+        "entry_req": "759"
+      },
+      {
+        "course": "Micronesia",
+        "entry_req": "162,271"
+      },
+      {
+        "course": "San Marino",
+        "entry_req": "1,350"
+      },
+      {
+        "course": "Solomon Islands",
+        "entry_req": "13,032"
+      },
+      {
+        "course": "Congo",
+        "entry_req": "170"
+      },
+      {
+        "course": "Timor-Leste",
+        "entry_req": "161"
+      },
+      {
+        "course": "Burkina Faso",
+        "entry_req": "5"
+      },
+      {
+        "course": "Liechtenstein",
+        "entry_req": "3,334"
+      },
+      {
+        "course": "Gibraltar",
+        "entry_req": "114,467"
+      },
+      {
+        "course": "Grenada",
+        "entry_req": "855"
+      },
+      {
+        "course": "Bermuda",
+        "entry_req": "161"
+      },
+      {
+        "course": "South Sudan",
+        "entry_req": "48"
+      },
+      {
+        "course": "Nicaragua",
+        "entry_req": "2,071"
+      },
+      {
+        "course": "Tajikistan",
+        "entry_req": "40"
+      },
+      {
+        "course": "Equatorial Guinea",
+        "entry_req": "93"
+      },
+      {
+        "course": "Monaco",
+        "entry_req": "28,203"
+      },
+      {
+        "course": "Samoa",
+        "entry_req": "75,999"
+      },
+      {
+        "course": "Tonga",
+        "entry_req": "12,056"
+      },
+      {
+        "course": "Marshall Islands",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Dominica",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Djibouti",
+        "entry_req": "73"
+      },
+      {
+        "course": "CAR",
+        "entry_req": "25"
+      },
+      {
+        "course": "Gambia",
+        "entry_req": "25"
+      },
+      {
+        "course": "Saint Martin",
+        "entry_req": "273,395"
+      },
+      {
+        "course": "Vanuatu",
+        "entry_req": "90"
+      },
+      {
+        "course": "Greenland",
+        "entry_req": "161,287"
+      },
+      {
+        "course": "Yemen",
+        "entry_req": "21"
+      },
+      {
+        "course": "Caribbean Netherlands",
+        "entry_req": "43,832"
+      },
+      {
+        "course": "Sint Maarten",
+        "entry_req": "1,228"
+      },
+      {
+        "course": "Eritrea",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Niger",
+        "entry_req": "28"
+      },
+      {
+        "course": "St. Vincent Grenadines",
+        "entry_req": "511"
+      },
+      {
+        "course": "Guinea-Bissau",
+        "entry_req": "246"
+      },
+      {
+        "course": "Comoros",
+        "entry_req": "10"
+      },
+      {
+        "course": "Antigua and Barbuda",
+        "entry_req": "60"
+      },
+      {
+        "course": "Liberia",
+        "entry_req": "2"
+      },
+      {
+        "course": "Sierra Leone",
+        "entry_req": "332"
+      },
+      {
+        "course": "Chad",
+        "entry_req": "151"
+      },
+      {
+        "course": "British Virgin Islands",
+        "entry_req": "3,236"
+      },
+      {
+        "course": "Cook Islands",
+        "entry_req": "2,903"
+      },
+      {
+        "course": "Sao Tome and Principe",
+        "entry_req": "57"
+      },
+      {
+        "course": "Turks and Caicos",
+        "entry_req": "75"
+      },
+      {
+        "course": "Saint Kitts and Nevis",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Palau",
+        "entry_req": "219"
+      },
+      {
+        "course": "St. Barth",
+        "entry_req": "506,687"
+      },
+      {
+        "course": "Nauru",
+        "entry_req": "4,127"
+      },
+      {
+        "course": "Kiribati",
+        "entry_req": "19,106"
+      },
+      {
+        "course": "Anguilla",
+        "entry_req": "854"
+      },
+      {
+        "course": "Wallis and Futuna",
+        "entry_req": "282,644"
+      },
+      {
+        "course": "Saint Pierre Miquelon",
+        "entry_req": "173,815"
+      },
+      {
+        "course": "Tuvalu",
+        "entry_req": "243,826"
+      },
+      {
+        "course": "Saint Helena",
+        "entry_req": "353,884"
+      },
+      {
+        "course": "Falkland Islands",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Montserrat",
+        "entry_req": "3,827"
+      },
+      {
+        "course": "Niue",
+        "entry_req": "1,850"
+      },
+      {
+        "course": "Diamond Princess",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Tokelau",
+        "entry_req": "58,055"
+      },
+      {
+        "course": "Vatican City",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Western Sahara",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "MS Zaandam",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "China",
+        "entry_req": "82"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      }
+    ]
+  },
+  {
+    "slot": "Check 2",
+    "scraped_at": "2026-06-23T20:11:32",
+    "courses": [
+      {
+        "course": "North America",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Asia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Europe",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "South America",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Oceania",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Africa",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "World",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "USA",
+        "entry_req": "2,348"
+      },
+      {
+        "course": "India",
+        "entry_req": "0.4"
+      },
+      {
+        "course": "France",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Germany",
+        "entry_req": "4,833"
+      },
+      {
+        "course": "Brazil",
+        "entry_req": "8,281"
+      },
+      {
+        "course": "S. Korea",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Japan",
+        "entry_req": "95,582"
+      },
+      {
+        "course": "Italy",
+        "entry_req": "2,747"
+      },
+      {
+        "course": "UK",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Russia",
+        "entry_req": "1,205"
+      },
+      {
+        "course": "Turkey",
+        "entry_req": "4,024"
+      },
+      {
+        "course": "Spain",
+        "entry_req": "656"
+      },
+      {
+        "course": "Australia",
+        "entry_req": "334"
+      },
+      {
+        "course": "Vietnam",
+        "entry_req": "9,510"
+      },
+      {
+        "course": "Taiwan",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Argentina",
+        "entry_req": "16"
+      },
+      {
+        "course": "Netherlands",
+        "entry_req": "11"
+      },
+      {
+        "course": "Mexico",
+        "entry_req": "3,557"
+      },
+      {
+        "course": "Iran",
+        "entry_req": "1,199"
+      },
+      {
+        "course": "Indonesia",
+        "entry_req": "72"
+      },
+      {
+        "course": "Poland",
+        "entry_req": "31,941"
+      },
+      {
+        "course": "Colombia",
+        "entry_req": "870"
+      },
+      {
+        "course": "Greece",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Austria",
+        "entry_req": "420"
+      },
+      {
+        "course": "Portugal",
+        "entry_req": "13"
+      },
+      {
+        "course": "Ukraine",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Chile",
+        "entry_req": "3,528"
+      },
+      {
+        "course": "Malaysia",
+        "entry_req": "235"
+      },
+      {
+        "course": "Canada",
+        "entry_req": "150"
+      },
+      {
+        "course": "Belgium",
+        "entry_req": "45"
+      },
+      {
+        "course": "Israel",
+        "entry_req": "3,280"
+      },
+      {
+        "course": "DPRK",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Thailand",
+        "entry_req": "613"
+      },
+      {
+        "course": "Czechia",
+        "entry_req": "30"
+      },
+      {
+        "course": "Peru",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Switzerland",
+        "entry_req": "33"
+      },
+      {
+        "course": "Philippines",
+        "entry_req": "55"
+      },
+      {
+        "course": "South Africa",
+        "entry_req": "1,010"
+      },
+      {
+        "course": "Romania",
+        "entry_req": "35"
+      },
+      {
+        "course": "Denmark",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Singapore",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Hong Kong",
+        "entry_req": "878"
+      },
+      {
+        "course": "Sweden",
+        "entry_req": "23"
+      },
+      {
+        "course": "New Zealand",
+        "entry_req": "331"
+      },
+      {
+        "course": "Serbia",
+        "entry_req": "45"
+      },
+      {
+        "course": "Iraq",
+        "entry_req": "16"
+      },
+      {
+        "course": "Hungary",
+        "entry_req": "3,022"
+      },
+      {
+        "course": "Bangladesh",
+        "entry_req": "-168.58"
+      },
+      {
+        "course": "Slovakia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Georgia",
+        "entry_req": "17,130"
+      },
+      {
+        "course": "Jordan",
+        "entry_req": "181"
+      },
+      {
+        "course": "Ireland",
+        "entry_req": "34"
+      },
+      {
+        "course": "Pakistan",
+        "entry_req": "55"
+      },
+      {
+        "course": "Finland",
+        "entry_req": "31"
+      },
+      {
+        "course": "Norway",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Kazakhstan",
+        "entry_req": "779"
+      },
+      {
+        "course": "Lithuania",
+        "entry_req": "162"
+      },
+      {
+        "course": "Slovenia",
+        "entry_req": "11"
+      },
+      {
+        "course": "Bulgaria",
+        "entry_req": "1,192"
+      },
+      {
+        "course": "Croatia",
+        "entry_req": "8,033"
+      },
+      {
+        "course": "Guatemala",
+        "entry_req": "60"
+      },
+      {
+        "course": "Morocco",
+        "entry_req": "173"
+      },
+      {
+        "course": "Lebanon",
+        "entry_req": "21,736"
+      },
+      {
+        "course": "Costa Rica",
+        "entry_req": "71,154"
+      },
+      {
+        "course": "Bolivia",
+        "entry_req": "1,049"
+      },
+      {
+        "course": "Tunisia",
+        "entry_req": "1,157"
+      },
+      {
+        "course": "Cuba",
+        "entry_req": "5"
+      },
+      {
+        "course": "Ecuador",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "UAE",
+        "entry_req": "1,007"
+      },
+      {
+        "course": "Panama",
+        "entry_req": "14"
+      },
+      {
+        "course": "Uruguay",
+        "entry_req": "716"
+      },
+      {
+        "course": "Mongolia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Nepal",
+        "entry_req": "3"
+      },
+      {
+        "course": "Belarus",
+        "entry_req": "141"
+      },
+      {
+        "course": "Latvia",
+        "entry_req": "2,371"
+      },
+      {
+        "course": "Saudi Arabia",
+        "entry_req": "109"
+      },
+      {
+        "course": "Paraguay",
+        "entry_req": "16,306"
+      },
+      {
+        "course": "Azerbaijan",
+        "entry_req": "72"
+      },
+      {
+        "course": "Bahrain",
+        "entry_req": "34"
+      },
+      {
+        "course": "Cyprus",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Dominican Republic",
+        "entry_req": "17"
+      },
+      {
+        "course": "Sri Lanka",
+        "entry_req": "0.2"
+      },
+      {
+        "course": "Kuwait",
+        "entry_req": "993"
+      },
+      {
+        "course": "Myanmar",
+        "entry_req": "40"
+      },
+      {
+        "course": "Moldova",
+        "entry_req": "29,599"
+      },
+      {
+        "course": "Estonia",
+        "entry_req": "75,708"
+      },
+      {
+        "course": "Palestine",
+        "entry_req": "30"
+      },
+      {
+        "course": "Venezuela",
+        "entry_req": "10"
+      },
+      {
+        "course": "Egypt",
+        "entry_req": "464"
+      },
+      {
+        "course": "Qatar",
+        "entry_req": "49"
+      },
+      {
+        "course": "Libya",
+        "entry_req": "0.3"
+      },
+      {
+        "course": "Ethiopia",
+        "entry_req": "45"
+      },
+      {
+        "course": "Réunion",
+        "entry_req": "82,706"
+      },
+      {
+        "course": "Honduras",
+        "entry_req": "32,372"
+      },
+      {
+        "course": "Armenia",
+        "entry_req": "2,655"
+      },
+      {
+        "course": "Bosnia and Herzegovina",
+        "entry_req": "2,506"
+      },
+      {
+        "course": "Oman",
+        "entry_req": "1,907"
+      },
+      {
+        "course": "Luxembourg",
+        "entry_req": "114,124"
+      },
+      {
+        "course": "North Macedonia",
+        "entry_req": "1,693"
+      },
+      {
+        "course": "Zambia",
+        "entry_req": "201"
+      },
+      {
+        "course": "Kenya",
+        "entry_req": "20"
+      },
+      {
+        "course": "Brunei",
+        "entry_req": "224,261"
+      },
+      {
+        "course": "Albania",
+        "entry_req": "358"
+      },
+      {
+        "course": "Botswana",
+        "entry_req": "323"
+      },
+      {
+        "course": "Montenegro",
+        "entry_req": "3,029"
+      },
+      {
+        "course": "Algeria",
+        "entry_req": "1,810"
+      },
+      {
+        "course": "Nigeria",
+        "entry_req": "19"
+      },
+      {
+        "course": "Zimbabwe",
+        "entry_req": "113"
+      },
+      {
+        "course": "Uzbekistan",
+        "entry_req": "307"
+      },
+      {
+        "course": "Afghanistan",
+        "entry_req": "370"
+      },
+      {
+        "course": "Mozambique",
+        "entry_req": "81"
+      },
+      {
+        "course": "Martinique",
+        "entry_req": "612,553"
+      },
+      {
+        "course": "Laos",
+        "entry_req": "28,145"
+      },
+      {
+        "course": "Iceland",
+        "entry_req": "387,941"
+      },
+      {
+        "course": "Kyrgyzstan",
+        "entry_req": "1,115"
+      },
+      {
+        "course": "Guadeloupe",
+        "entry_req": "500,168"
+      },
+      {
+        "course": "El Salvador",
+        "entry_req": "2,781"
+      },
+      {
+        "course": "Trinidad and Tobago",
+        "entry_req": "20"
+      },
+      {
+        "course": "Maldives",
+        "entry_req": "41,944"
+      },
+      {
+        "course": "Namibia",
+        "entry_req": "450"
+      },
+      {
+        "course": "Uganda",
+        "entry_req": "1,406"
+      },
+      {
+        "course": "Ghana",
+        "entry_req": "0.06"
+      },
+      {
+        "course": "Jamaica",
+        "entry_req": "16,712"
+      },
+      {
+        "course": "Cambodia",
+        "entry_req": "0.2"
+      },
+      {
+        "course": "Rwanda",
+        "entry_req": "0.8"
+      },
+      {
+        "course": "Cameroon",
+        "entry_req": "4"
+      },
+      {
+        "course": "Malta",
+        "entry_req": "869"
+      },
+      {
+        "course": "Barbados",
+        "entry_req": "4,455"
+      },
+      {
+        "course": "Angola",
+        "entry_req": "56"
+      },
+      {
+        "course": "Channel Islands",
+        "entry_req": "952"
+      },
+      {
+        "course": "DRC",
+        "entry_req": "140"
+      },
+      {
+        "course": "French Guiana",
+        "entry_req": "274,906"
+      },
+      {
+        "course": "Malawi",
+        "entry_req": "16"
+      },
+      {
+        "course": "Senegal",
+        "entry_req": "3"
+      },
+      {
+        "course": "Ivory Coast",
+        "entry_req": "2"
+      },
+      {
+        "course": "Suriname",
+        "entry_req": "52,623"
+      },
+      {
+        "course": "New Caledonia",
+        "entry_req": "498"
+      },
+      {
+        "course": "French Polynesia",
+        "entry_req": "158,725"
+      },
+      {
+        "course": "Eswatini",
+        "entry_req": "547"
+      },
+      {
+        "course": "Guyana",
+        "entry_req": "1,038"
+      },
+      {
+        "course": "Belize",
+        "entry_req": "1,543"
+      },
+      {
+        "course": "Fiji",
+        "entry_req": "1,106"
+      },
+      {
+        "course": "Madagascar",
+        "entry_req": "7"
+      },
+      {
+        "course": "Cabo Verde",
+        "entry_req": "537"
+      },
+      {
+        "course": "Sudan",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Mauritania",
+        "entry_req": "78"
+      },
+      {
+        "course": "Bhutan",
+        "entry_req": "1,411"
+      },
+      {
+        "course": "Syria",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Burundi",
+        "entry_req": "88"
+      },
+      {
+        "course": "Seychelles",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Gabon",
+        "entry_req": "30"
+      },
+      {
+        "course": "Andorra",
+        "entry_req": "3,705"
+      },
+      {
+        "course": "Papua New Guinea",
+        "entry_req": "3"
+      },
+      {
+        "course": "Curaçao",
+        "entry_req": "5,866"
+      },
+      {
+        "course": "Aruba",
+        "entry_req": "13,884"
+      },
+      {
+        "course": "Tanzania",
+        "entry_req": "667"
+      },
+      {
+        "course": "Mauritius",
+        "entry_req": "546"
+      },
+      {
+        "course": "Mayotte",
+        "entry_req": "135,804"
+      },
+      {
+        "course": "Togo",
+        "entry_req": "0.1"
+      },
+      {
+        "course": "Guinea",
+        "entry_req": "25"
+      },
+      {
+        "course": "Bahamas",
+        "entry_req": "2,182"
+      },
+      {
+        "course": "Isle of Man",
+        "entry_req": "129,450"
+      },
+      {
+        "course": "Lesotho",
+        "entry_req": "4,337"
+      },
+      {
+        "course": "Haiti",
+        "entry_req": "6"
+      },
+      {
+        "course": "Faeroe Islands",
+        "entry_req": "547,133"
+      },
+      {
+        "course": "Mali",
+        "entry_req": "4"
+      },
+      {
+        "course": "Cayman Islands",
+        "entry_req": "340,116"
+      },
+      {
+        "course": "Saint Lucia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Benin",
+        "entry_req": "2"
+      },
+      {
+        "course": "Macao",
+        "entry_req": "36,050"
+      },
+      {
+        "course": "Somalia",
+        "entry_req": "759"
+      },
+      {
+        "course": "Micronesia",
+        "entry_req": "162,271"
+      },
+      {
+        "course": "San Marino",
+        "entry_req": "1,350"
+      },
+      {
+        "course": "Solomon Islands",
+        "entry_req": "13,032"
+      },
+      {
+        "course": "Congo",
+        "entry_req": "170"
+      },
+      {
+        "course": "Timor-Leste",
+        "entry_req": "161"
+      },
+      {
+        "course": "Burkina Faso",
+        "entry_req": "5"
+      },
+      {
+        "course": "Liechtenstein",
+        "entry_req": "3,334"
+      },
+      {
+        "course": "Gibraltar",
+        "entry_req": "114,467"
+      },
+      {
+        "course": "Grenada",
+        "entry_req": "855"
+      },
+      {
+        "course": "Bermuda",
+        "entry_req": "161"
+      },
+      {
+        "course": "South Sudan",
+        "entry_req": "48"
+      },
+      {
+        "course": "Nicaragua",
+        "entry_req": "2,071"
+      },
+      {
+        "course": "Tajikistan",
+        "entry_req": "40"
+      },
+      {
+        "course": "Equatorial Guinea",
+        "entry_req": "93"
+      },
+      {
+        "course": "Monaco",
+        "entry_req": "28,203"
+      },
+      {
+        "course": "Samoa",
+        "entry_req": "75,999"
+      },
+      {
+        "course": "Tonga",
+        "entry_req": "12,056"
+      },
+      {
+        "course": "Marshall Islands",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Dominica",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Djibouti",
+        "entry_req": "73"
+      },
+      {
+        "course": "CAR",
+        "entry_req": "25"
+      },
+      {
+        "course": "Gambia",
+        "entry_req": "25"
+      },
+      {
+        "course": "Saint Martin",
+        "entry_req": "273,395"
+      },
+      {
+        "course": "Vanuatu",
+        "entry_req": "90"
+      },
+      {
+        "course": "Greenland",
+        "entry_req": "161,287"
+      },
+      {
+        "course": "Yemen",
+        "entry_req": "21"
+      },
+      {
+        "course": "Caribbean Netherlands",
+        "entry_req": "43,832"
+      },
+      {
+        "course": "Sint Maarten",
+        "entry_req": "1,228"
+      },
+      {
+        "course": "Eritrea",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Niger",
+        "entry_req": "28"
+      },
+      {
+        "course": "St. Vincent Grenadines",
+        "entry_req": "511"
+      },
+      {
+        "course": "Guinea-Bissau",
+        "entry_req": "246"
+      },
+      {
+        "course": "Comoros",
+        "entry_req": "10"
+      },
+      {
+        "course": "Antigua and Barbuda",
+        "entry_req": "60"
+      },
+      {
+        "course": "Liberia",
+        "entry_req": "2"
+      },
+      {
+        "course": "Sierra Leone",
+        "entry_req": "332"
+      },
+      {
+        "course": "Chad",
+        "entry_req": "151"
+      },
+      {
+        "course": "British Virgin Islands",
+        "entry_req": "3,236"
+      },
+      {
+        "course": "Cook Islands",
+        "entry_req": "2,903"
+      },
+      {
+        "course": "Sao Tome and Principe",
+        "entry_req": "57"
+      },
+      {
+        "course": "Turks and Caicos",
+        "entry_req": "75"
+      },
+      {
+        "course": "Saint Kitts and Nevis",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Palau",
+        "entry_req": "219"
+      },
+      {
+        "course": "St. Barth",
+        "entry_req": "506,687"
+      },
+      {
+        "course": "Nauru",
+        "entry_req": "4,127"
+      },
+      {
+        "course": "Kiribati",
+        "entry_req": "19,106"
+      },
+      {
+        "course": "Anguilla",
+        "entry_req": "854"
+      },
+      {
+        "course": "Wallis and Futuna",
+        "entry_req": "282,644"
+      },
+      {
+        "course": "Saint Pierre Miquelon",
+        "entry_req": "173,815"
+      },
+      {
+        "course": "Tuvalu",
+        "entry_req": "243,826"
+      },
+      {
+        "course": "Saint Helena",
+        "entry_req": "353,884"
+      },
+      {
+        "course": "Falkland Islands",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Montserrat",
+        "entry_req": "3,827"
+      },
+      {
+        "course": "Niue",
+        "entry_req": "1,850"
+      },
+      {
+        "course": "Diamond Princess",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Tokelau",
+        "entry_req": "58,055"
+      },
+      {
+        "course": "Vatican City",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Western Sahara",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "MS Zaandam",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "China",
+        "entry_req": "82"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      }
+    ]
+  },
+  {
+    "slot": "Check 2",
+    "scraped_at": "2026-06-23T20:15:32",
+    "courses": [
+      {
+        "course": "North America",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Asia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Europe",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "South America",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Oceania",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Africa",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "World",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "USA",
+        "entry_req": "2,348"
+      },
+      {
+        "course": "India",
+        "entry_req": "0.4"
+      },
+      {
+        "course": "France",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Germany",
+        "entry_req": "4,833"
+      },
+      {
+        "course": "Brazil",
+        "entry_req": "8,281"
+      },
+      {
+        "course": "S. Korea",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Japan",
+        "entry_req": "95,582"
+      },
+      {
+        "course": "Italy",
+        "entry_req": "2,747"
+      },
+      {
+        "course": "UK",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Russia",
+        "entry_req": "1,205"
+      },
+      {
+        "course": "Turkey",
+        "entry_req": "4,024"
+      },
+      {
+        "course": "Spain",
+        "entry_req": "656"
+      },
+      {
+        "course": "Australia",
+        "entry_req": "334"
+      },
+      {
+        "course": "Vietnam",
+        "entry_req": "9,510"
+      },
+      {
+        "course": "Taiwan",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Argentina",
+        "entry_req": "16"
+      },
+      {
+        "course": "Netherlands",
+        "entry_req": "11"
+      },
+      {
+        "course": "Mexico",
+        "entry_req": "3,557"
+      },
+      {
+        "course": "Iran",
+        "entry_req": "1,199"
+      },
+      {
+        "course": "Indonesia",
+        "entry_req": "72"
+      },
+      {
+        "course": "Poland",
+        "entry_req": "31,941"
+      },
+      {
+        "course": "Colombia",
+        "entry_req": "870"
+      },
+      {
+        "course": "Greece",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Austria",
+        "entry_req": "420"
+      },
+      {
+        "course": "Portugal",
+        "entry_req": "13"
+      },
+      {
+        "course": "Ukraine",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Chile",
+        "entry_req": "3,528"
+      },
+      {
+        "course": "Malaysia",
+        "entry_req": "235"
+      },
+      {
+        "course": "Canada",
+        "entry_req": "150"
+      },
+      {
+        "course": "Belgium",
+        "entry_req": "45"
+      },
+      {
+        "course": "Israel",
+        "entry_req": "3,280"
+      },
+      {
+        "course": "DPRK",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Thailand",
+        "entry_req": "613"
+      },
+      {
+        "course": "Czechia",
+        "entry_req": "30"
+      },
+      {
+        "course": "Peru",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Switzerland",
+        "entry_req": "33"
+      },
+      {
+        "course": "Philippines",
+        "entry_req": "55"
+      },
+      {
+        "course": "South Africa",
+        "entry_req": "1,010"
+      },
+      {
+        "course": "Romania",
+        "entry_req": "35"
+      },
+      {
+        "course": "Denmark",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Singapore",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Hong Kong",
+        "entry_req": "878"
+      },
+      {
+        "course": "Sweden",
+        "entry_req": "23"
+      },
+      {
+        "course": "New Zealand",
+        "entry_req": "331"
+      },
+      {
+        "course": "Serbia",
+        "entry_req": "45"
+      },
+      {
+        "course": "Iraq",
+        "entry_req": "16"
+      },
+      {
+        "course": "Hungary",
+        "entry_req": "3,022"
+      },
+      {
+        "course": "Bangladesh",
+        "entry_req": "-168.58"
+      },
+      {
+        "course": "Slovakia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Georgia",
+        "entry_req": "17,130"
+      },
+      {
+        "course": "Jordan",
+        "entry_req": "181"
+      },
+      {
+        "course": "Ireland",
+        "entry_req": "34"
+      },
+      {
+        "course": "Pakistan",
+        "entry_req": "55"
+      },
+      {
+        "course": "Finland",
+        "entry_req": "31"
+      },
+      {
+        "course": "Norway",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Kazakhstan",
+        "entry_req": "779"
+      },
+      {
+        "course": "Lithuania",
+        "entry_req": "162"
+      },
+      {
+        "course": "Slovenia",
+        "entry_req": "11"
+      },
+      {
+        "course": "Bulgaria",
+        "entry_req": "1,192"
+      },
+      {
+        "course": "Croatia",
+        "entry_req": "8,033"
+      },
+      {
+        "course": "Guatemala",
+        "entry_req": "60"
+      },
+      {
+        "course": "Morocco",
+        "entry_req": "173"
+      },
+      {
+        "course": "Lebanon",
+        "entry_req": "21,736"
+      },
+      {
+        "course": "Costa Rica",
+        "entry_req": "71,154"
+      },
+      {
+        "course": "Bolivia",
+        "entry_req": "1,049"
+      },
+      {
+        "course": "Tunisia",
+        "entry_req": "1,157"
+      },
+      {
+        "course": "Cuba",
+        "entry_req": "5"
+      },
+      {
+        "course": "Ecuador",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "UAE",
+        "entry_req": "1,007"
+      },
+      {
+        "course": "Panama",
+        "entry_req": "14"
+      },
+      {
+        "course": "Uruguay",
+        "entry_req": "716"
+      },
+      {
+        "course": "Mongolia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Nepal",
+        "entry_req": "3"
+      },
+      {
+        "course": "Belarus",
+        "entry_req": "141"
+      },
+      {
+        "course": "Latvia",
+        "entry_req": "2,371"
+      },
+      {
+        "course": "Saudi Arabia",
+        "entry_req": "109"
+      },
+      {
+        "course": "Paraguay",
+        "entry_req": "16,306"
+      },
+      {
+        "course": "Azerbaijan",
+        "entry_req": "72"
+      },
+      {
+        "course": "Bahrain",
+        "entry_req": "34"
+      },
+      {
+        "course": "Cyprus",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Dominican Republic",
+        "entry_req": "17"
+      },
+      {
+        "course": "Sri Lanka",
+        "entry_req": "0.2"
+      },
+      {
+        "course": "Kuwait",
+        "entry_req": "993"
+      },
+      {
+        "course": "Myanmar",
+        "entry_req": "40"
+      },
+      {
+        "course": "Moldova",
+        "entry_req": "29,599"
+      },
+      {
+        "course": "Estonia",
+        "entry_req": "75,708"
+      },
+      {
+        "course": "Palestine",
+        "entry_req": "30"
+      },
+      {
+        "course": "Venezuela",
+        "entry_req": "10"
+      },
+      {
+        "course": "Egypt",
+        "entry_req": "464"
+      },
+      {
+        "course": "Qatar",
+        "entry_req": "49"
+      },
+      {
+        "course": "Libya",
+        "entry_req": "0.3"
+      },
+      {
+        "course": "Ethiopia",
+        "entry_req": "45"
+      },
+      {
+        "course": "Réunion",
+        "entry_req": "82,706"
+      },
+      {
+        "course": "Honduras",
+        "entry_req": "32,372"
+      },
+      {
+        "course": "Armenia",
+        "entry_req": "2,655"
+      },
+      {
+        "course": "Bosnia and Herzegovina",
+        "entry_req": "2,506"
+      },
+      {
+        "course": "Oman",
+        "entry_req": "1,907"
+      },
+      {
+        "course": "Luxembourg",
+        "entry_req": "114,124"
+      },
+      {
+        "course": "North Macedonia",
+        "entry_req": "1,693"
+      },
+      {
+        "course": "Zambia",
+        "entry_req": "201"
+      },
+      {
+        "course": "Kenya",
+        "entry_req": "20"
+      },
+      {
+        "course": "Brunei",
+        "entry_req": "224,261"
+      },
+      {
+        "course": "Albania",
+        "entry_req": "358"
+      },
+      {
+        "course": "Botswana",
+        "entry_req": "323"
+      },
+      {
+        "course": "Montenegro",
+        "entry_req": "3,029"
+      },
+      {
+        "course": "Algeria",
+        "entry_req": "1,810"
+      },
+      {
+        "course": "Nigeria",
+        "entry_req": "19"
+      },
+      {
+        "course": "Zimbabwe",
+        "entry_req": "113"
+      },
+      {
+        "course": "Uzbekistan",
+        "entry_req": "307"
+      },
+      {
+        "course": "Afghanistan",
+        "entry_req": "370"
+      },
+      {
+        "course": "Mozambique",
+        "entry_req": "81"
+      },
+      {
+        "course": "Martinique",
+        "entry_req": "612,553"
+      },
+      {
+        "course": "Laos",
+        "entry_req": "28,145"
+      },
+      {
+        "course": "Iceland",
+        "entry_req": "387,941"
+      },
+      {
+        "course": "Kyrgyzstan",
+        "entry_req": "1,115"
+      },
+      {
+        "course": "Guadeloupe",
+        "entry_req": "500,168"
+      },
+      {
+        "course": "El Salvador",
+        "entry_req": "2,781"
+      },
+      {
+        "course": "Trinidad and Tobago",
+        "entry_req": "20"
+      },
+      {
+        "course": "Maldives",
+        "entry_req": "41,944"
+      },
+      {
+        "course": "Namibia",
+        "entry_req": "450"
+      },
+      {
+        "course": "Uganda",
+        "entry_req": "1,406"
+      },
+      {
+        "course": "Ghana",
+        "entry_req": "0.06"
+      },
+      {
+        "course": "Jamaica",
+        "entry_req": "16,712"
+      },
+      {
+        "course": "Cambodia",
+        "entry_req": "0.2"
+      },
+      {
+        "course": "Rwanda",
+        "entry_req": "0.8"
+      },
+      {
+        "course": "Cameroon",
+        "entry_req": "4"
+      },
+      {
+        "course": "Malta",
+        "entry_req": "869"
+      },
+      {
+        "course": "Barbados",
+        "entry_req": "4,455"
+      },
+      {
+        "course": "Angola",
+        "entry_req": "56"
+      },
+      {
+        "course": "Channel Islands",
+        "entry_req": "952"
+      },
+      {
+        "course": "DRC",
+        "entry_req": "140"
+      },
+      {
+        "course": "French Guiana",
+        "entry_req": "274,906"
+      },
+      {
+        "course": "Malawi",
+        "entry_req": "16"
+      },
+      {
+        "course": "Senegal",
+        "entry_req": "3"
+      },
+      {
+        "course": "Ivory Coast",
+        "entry_req": "2"
+      },
+      {
+        "course": "Suriname",
+        "entry_req": "52,623"
+      },
+      {
+        "course": "New Caledonia",
+        "entry_req": "498"
+      },
+      {
+        "course": "French Polynesia",
+        "entry_req": "158,725"
+      },
+      {
+        "course": "Eswatini",
+        "entry_req": "547"
+      },
+      {
+        "course": "Guyana",
+        "entry_req": "1,038"
+      },
+      {
+        "course": "Belize",
+        "entry_req": "1,543"
+      },
+      {
+        "course": "Fiji",
+        "entry_req": "1,106"
+      },
+      {
+        "course": "Madagascar",
+        "entry_req": "7"
+      },
+      {
+        "course": "Cabo Verde",
+        "entry_req": "537"
+      },
+      {
+        "course": "Sudan",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Mauritania",
+        "entry_req": "78"
+      },
+      {
+        "course": "Bhutan",
+        "entry_req": "1,411"
+      },
+      {
+        "course": "Syria",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Burundi",
+        "entry_req": "88"
+      },
+      {
+        "course": "Seychelles",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Gabon",
+        "entry_req": "30"
+      },
+      {
+        "course": "Andorra",
+        "entry_req": "3,705"
+      },
+      {
+        "course": "Papua New Guinea",
+        "entry_req": "3"
+      },
+      {
+        "course": "Curaçao",
+        "entry_req": "5,866"
+      },
+      {
+        "course": "Aruba",
+        "entry_req": "13,884"
+      },
+      {
+        "course": "Tanzania",
+        "entry_req": "667"
+      },
+      {
+        "course": "Mauritius",
+        "entry_req": "546"
+      },
+      {
+        "course": "Mayotte",
+        "entry_req": "135,804"
+      },
+      {
+        "course": "Togo",
+        "entry_req": "0.1"
+      },
+      {
+        "course": "Guinea",
+        "entry_req": "25"
+      },
+      {
+        "course": "Bahamas",
+        "entry_req": "2,182"
+      },
+      {
+        "course": "Isle of Man",
+        "entry_req": "129,450"
+      },
+      {
+        "course": "Lesotho",
+        "entry_req": "4,337"
+      },
+      {
+        "course": "Haiti",
+        "entry_req": "6"
+      },
+      {
+        "course": "Faeroe Islands",
+        "entry_req": "547,133"
+      },
+      {
+        "course": "Mali",
+        "entry_req": "4"
+      },
+      {
+        "course": "Cayman Islands",
+        "entry_req": "340,116"
+      },
+      {
+        "course": "Saint Lucia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Benin",
+        "entry_req": "2"
+      },
+      {
+        "course": "Macao",
+        "entry_req": "36,050"
+      },
+      {
+        "course": "Somalia",
+        "entry_req": "759"
+      },
+      {
+        "course": "Micronesia",
+        "entry_req": "162,271"
+      },
+      {
+        "course": "San Marino",
+        "entry_req": "1,350"
+      },
+      {
+        "course": "Solomon Islands",
+        "entry_req": "13,032"
+      },
+      {
+        "course": "Congo",
+        "entry_req": "170"
+      },
+      {
+        "course": "Timor-Leste",
+        "entry_req": "161"
+      },
+      {
+        "course": "Burkina Faso",
+        "entry_req": "5"
+      },
+      {
+        "course": "Liechtenstein",
+        "entry_req": "3,334"
+      },
+      {
+        "course": "Gibraltar",
+        "entry_req": "114,467"
+      },
+      {
+        "course": "Grenada",
+        "entry_req": "855"
+      },
+      {
+        "course": "Bermuda",
+        "entry_req": "161"
+      },
+      {
+        "course": "South Sudan",
+        "entry_req": "48"
+      },
+      {
+        "course": "Nicaragua",
+        "entry_req": "2,071"
+      },
+      {
+        "course": "Tajikistan",
+        "entry_req": "40"
+      },
+      {
+        "course": "Equatorial Guinea",
+        "entry_req": "93"
+      },
+      {
+        "course": "Monaco",
+        "entry_req": "28,203"
+      },
+      {
+        "course": "Samoa",
+        "entry_req": "75,999"
+      },
+      {
+        "course": "Tonga",
+        "entry_req": "12,056"
+      },
+      {
+        "course": "Marshall Islands",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Dominica",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Djibouti",
+        "entry_req": "73"
+      },
+      {
+        "course": "CAR",
+        "entry_req": "25"
+      },
+      {
+        "course": "Gambia",
+        "entry_req": "25"
+      },
+      {
+        "course": "Saint Martin",
+        "entry_req": "273,395"
+      },
+      {
+        "course": "Vanuatu",
+        "entry_req": "90"
+      },
+      {
+        "course": "Greenland",
+        "entry_req": "161,287"
+      },
+      {
+        "course": "Yemen",
+        "entry_req": "21"
+      },
+      {
+        "course": "Caribbean Netherlands",
+        "entry_req": "43,832"
+      },
+      {
+        "course": "Sint Maarten",
+        "entry_req": "1,228"
+      },
+      {
+        "course": "Eritrea",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Niger",
+        "entry_req": "28"
+      },
+      {
+        "course": "St. Vincent Grenadines",
+        "entry_req": "511"
+      },
+      {
+        "course": "Guinea-Bissau",
+        "entry_req": "246"
+      },
+      {
+        "course": "Comoros",
+        "entry_req": "10"
+      },
+      {
+        "course": "Antigua and Barbuda",
+        "entry_req": "60"
+      },
+      {
+        "course": "Liberia",
+        "entry_req": "2"
+      },
+      {
+        "course": "Sierra Leone",
+        "entry_req": "332"
+      },
+      {
+        "course": "Chad",
+        "entry_req": "151"
+      },
+      {
+        "course": "British Virgin Islands",
+        "entry_req": "3,236"
+      },
+      {
+        "course": "Cook Islands",
+        "entry_req": "2,903"
+      },
+      {
+        "course": "Sao Tome and Principe",
+        "entry_req": "57"
+      },
+      {
+        "course": "Turks and Caicos",
+        "entry_req": "75"
+      },
+      {
+        "course": "Saint Kitts and Nevis",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Palau",
+        "entry_req": "219"
+      },
+      {
+        "course": "St. Barth",
+        "entry_req": "506,687"
+      },
+      {
+        "course": "Nauru",
+        "entry_req": "4,127"
+      },
+      {
+        "course": "Kiribati",
+        "entry_req": "19,106"
+      },
+      {
+        "course": "Anguilla",
+        "entry_req": "854"
+      },
+      {
+        "course": "Wallis and Futuna",
+        "entry_req": "282,644"
+      },
+      {
+        "course": "Saint Pierre Miquelon",
+        "entry_req": "173,815"
+      },
+      {
+        "course": "Tuvalu",
+        "entry_req": "243,826"
+      },
+      {
+        "course": "Saint Helena",
+        "entry_req": "353,884"
+      },
+      {
+        "course": "Falkland Islands",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Montserrat",
+        "entry_req": "3,827"
+      },
+      {
+        "course": "Niue",
+        "entry_req": "1,850"
+      },
+      {
+        "course": "Diamond Princess",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Tokelau",
+        "entry_req": "58,055"
+      },
+      {
+        "course": "Vatican City",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Western Sahara",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "MS Zaandam",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "China",
+        "entry_req": "82"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      }
+    ]
+  },
+  {
+    "slot": "Check 2",
+    "scraped_at": "2026-06-23T20:16:02",
+    "courses": [
+      {
+        "course": "North America",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Asia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Europe",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "South America",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Oceania",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Africa",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "World",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "USA",
+        "entry_req": "2,348"
+      },
+      {
+        "course": "India",
+        "entry_req": "0.4"
+      },
+      {
+        "course": "France",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Germany",
+        "entry_req": "4,833"
+      },
+      {
+        "course": "Brazil",
+        "entry_req": "8,281"
+      },
+      {
+        "course": "S. Korea",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Japan",
+        "entry_req": "95,582"
+      },
+      {
+        "course": "Italy",
+        "entry_req": "2,747"
+      },
+      {
+        "course": "UK",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Russia",
+        "entry_req": "1,205"
+      },
+      {
+        "course": "Turkey",
+        "entry_req": "4,024"
+      },
+      {
+        "course": "Spain",
+        "entry_req": "656"
+      },
+      {
+        "course": "Australia",
+        "entry_req": "334"
+      },
+      {
+        "course": "Vietnam",
+        "entry_req": "9,510"
+      },
+      {
+        "course": "Taiwan",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Argentina",
+        "entry_req": "16"
+      },
+      {
+        "course": "Netherlands",
+        "entry_req": "11"
+      },
+      {
+        "course": "Mexico",
+        "entry_req": "3,557"
+      },
+      {
+        "course": "Iran",
+        "entry_req": "1,199"
+      },
+      {
+        "course": "Indonesia",
+        "entry_req": "72"
+      },
+      {
+        "course": "Poland",
+        "entry_req": "31,941"
+      },
+      {
+        "course": "Colombia",
+        "entry_req": "870"
+      },
+      {
+        "course": "Greece",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Austria",
+        "entry_req": "420"
+      },
+      {
+        "course": "Portugal",
+        "entry_req": "13"
+      },
+      {
+        "course": "Ukraine",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Chile",
+        "entry_req": "3,528"
+      },
+      {
+        "course": "Malaysia",
+        "entry_req": "235"
+      },
+      {
+        "course": "Canada",
+        "entry_req": "150"
+      },
+      {
+        "course": "Belgium",
+        "entry_req": "45"
+      },
+      {
+        "course": "Israel",
+        "entry_req": "3,280"
+      },
+      {
+        "course": "DPRK",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Thailand",
+        "entry_req": "613"
+      },
+      {
+        "course": "Czechia",
+        "entry_req": "30"
+      },
+      {
+        "course": "Peru",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Switzerland",
+        "entry_req": "33"
+      },
+      {
+        "course": "Philippines",
+        "entry_req": "55"
+      },
+      {
+        "course": "South Africa",
+        "entry_req": "1,010"
+      },
+      {
+        "course": "Romania",
+        "entry_req": "35"
+      },
+      {
+        "course": "Denmark",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Singapore",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Hong Kong",
+        "entry_req": "878"
+      },
+      {
+        "course": "Sweden",
+        "entry_req": "23"
+      },
+      {
+        "course": "New Zealand",
+        "entry_req": "331"
+      },
+      {
+        "course": "Serbia",
+        "entry_req": "45"
+      },
+      {
+        "course": "Iraq",
+        "entry_req": "16"
+      },
+      {
+        "course": "Hungary",
+        "entry_req": "3,022"
+      },
+      {
+        "course": "Bangladesh",
+        "entry_req": "-168.58"
+      },
+      {
+        "course": "Slovakia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Georgia",
+        "entry_req": "17,130"
+      },
+      {
+        "course": "Jordan",
+        "entry_req": "181"
+      },
+      {
+        "course": "Ireland",
+        "entry_req": "34"
+      },
+      {
+        "course": "Pakistan",
+        "entry_req": "55"
+      },
+      {
+        "course": "Finland",
+        "entry_req": "31"
+      },
+      {
+        "course": "Norway",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Kazakhstan",
+        "entry_req": "779"
+      },
+      {
+        "course": "Lithuania",
+        "entry_req": "162"
+      },
+      {
+        "course": "Slovenia",
+        "entry_req": "11"
+      },
+      {
+        "course": "Bulgaria",
+        "entry_req": "1,192"
+      },
+      {
+        "course": "Croatia",
+        "entry_req": "8,033"
+      },
+      {
+        "course": "Guatemala",
+        "entry_req": "60"
+      },
+      {
+        "course": "Morocco",
+        "entry_req": "173"
+      },
+      {
+        "course": "Lebanon",
+        "entry_req": "21,736"
+      },
+      {
+        "course": "Costa Rica",
+        "entry_req": "71,154"
+      },
+      {
+        "course": "Bolivia",
+        "entry_req": "1,049"
+      },
+      {
+        "course": "Tunisia",
+        "entry_req": "1,157"
+      },
+      {
+        "course": "Cuba",
+        "entry_req": "5"
+      },
+      {
+        "course": "Ecuador",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "UAE",
+        "entry_req": "1,007"
+      },
+      {
+        "course": "Panama",
+        "entry_req": "14"
+      },
+      {
+        "course": "Uruguay",
+        "entry_req": "716"
+      },
+      {
+        "course": "Mongolia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Nepal",
+        "entry_req": "3"
+      },
+      {
+        "course": "Belarus",
+        "entry_req": "141"
+      },
+      {
+        "course": "Latvia",
+        "entry_req": "2,371"
+      },
+      {
+        "course": "Saudi Arabia",
+        "entry_req": "109"
+      },
+      {
+        "course": "Paraguay",
+        "entry_req": "16,306"
+      },
+      {
+        "course": "Azerbaijan",
+        "entry_req": "72"
+      },
+      {
+        "course": "Bahrain",
+        "entry_req": "34"
+      },
+      {
+        "course": "Cyprus",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Dominican Republic",
+        "entry_req": "17"
+      },
+      {
+        "course": "Sri Lanka",
+        "entry_req": "0.2"
+      },
+      {
+        "course": "Kuwait",
+        "entry_req": "993"
+      },
+      {
+        "course": "Myanmar",
+        "entry_req": "40"
+      },
+      {
+        "course": "Moldova",
+        "entry_req": "29,599"
+      },
+      {
+        "course": "Estonia",
+        "entry_req": "75,708"
+      },
+      {
+        "course": "Palestine",
+        "entry_req": "30"
+      },
+      {
+        "course": "Venezuela",
+        "entry_req": "10"
+      },
+      {
+        "course": "Egypt",
+        "entry_req": "464"
+      },
+      {
+        "course": "Qatar",
+        "entry_req": "49"
+      },
+      {
+        "course": "Libya",
+        "entry_req": "0.3"
+      },
+      {
+        "course": "Ethiopia",
+        "entry_req": "45"
+      },
+      {
+        "course": "Réunion",
+        "entry_req": "82,706"
+      },
+      {
+        "course": "Honduras",
+        "entry_req": "32,372"
+      },
+      {
+        "course": "Armenia",
+        "entry_req": "2,655"
+      },
+      {
+        "course": "Bosnia and Herzegovina",
+        "entry_req": "2,506"
+      },
+      {
+        "course": "Oman",
+        "entry_req": "1,907"
+      },
+      {
+        "course": "Luxembourg",
+        "entry_req": "114,124"
+      },
+      {
+        "course": "North Macedonia",
+        "entry_req": "1,693"
+      },
+      {
+        "course": "Zambia",
+        "entry_req": "201"
+      },
+      {
+        "course": "Kenya",
+        "entry_req": "20"
+      },
+      {
+        "course": "Brunei",
+        "entry_req": "224,261"
+      },
+      {
+        "course": "Albania",
+        "entry_req": "358"
+      },
+      {
+        "course": "Botswana",
+        "entry_req": "323"
+      },
+      {
+        "course": "Montenegro",
+        "entry_req": "3,029"
+      },
+      {
+        "course": "Algeria",
+        "entry_req": "1,810"
+      },
+      {
+        "course": "Nigeria",
+        "entry_req": "19"
+      },
+      {
+        "course": "Zimbabwe",
+        "entry_req": "113"
+      },
+      {
+        "course": "Uzbekistan",
+        "entry_req": "307"
+      },
+      {
+        "course": "Afghanistan",
+        "entry_req": "370"
+      },
+      {
+        "course": "Mozambique",
+        "entry_req": "81"
+      },
+      {
+        "course": "Martinique",
+        "entry_req": "612,553"
+      },
+      {
+        "course": "Laos",
+        "entry_req": "28,145"
+      },
+      {
+        "course": "Iceland",
+        "entry_req": "387,941"
+      },
+      {
+        "course": "Kyrgyzstan",
+        "entry_req": "1,115"
+      },
+      {
+        "course": "Guadeloupe",
+        "entry_req": "500,168"
+      },
+      {
+        "course": "El Salvador",
+        "entry_req": "2,781"
+      },
+      {
+        "course": "Trinidad and Tobago",
+        "entry_req": "20"
+      },
+      {
+        "course": "Maldives",
+        "entry_req": "41,944"
+      },
+      {
+        "course": "Namibia",
+        "entry_req": "450"
+      },
+      {
+        "course": "Uganda",
+        "entry_req": "1,406"
+      },
+      {
+        "course": "Ghana",
+        "entry_req": "0.06"
+      },
+      {
+        "course": "Jamaica",
+        "entry_req": "16,712"
+      },
+      {
+        "course": "Cambodia",
+        "entry_req": "0.2"
+      },
+      {
+        "course": "Rwanda",
+        "entry_req": "0.8"
+      },
+      {
+        "course": "Cameroon",
+        "entry_req": "4"
+      },
+      {
+        "course": "Malta",
+        "entry_req": "869"
+      },
+      {
+        "course": "Barbados",
+        "entry_req": "4,455"
+      },
+      {
+        "course": "Angola",
+        "entry_req": "56"
+      },
+      {
+        "course": "Channel Islands",
+        "entry_req": "952"
+      },
+      {
+        "course": "DRC",
+        "entry_req": "140"
+      },
+      {
+        "course": "French Guiana",
+        "entry_req": "274,906"
+      },
+      {
+        "course": "Malawi",
+        "entry_req": "16"
+      },
+      {
+        "course": "Senegal",
+        "entry_req": "3"
+      },
+      {
+        "course": "Ivory Coast",
+        "entry_req": "2"
+      },
+      {
+        "course": "Suriname",
+        "entry_req": "52,623"
+      },
+      {
+        "course": "New Caledonia",
+        "entry_req": "498"
+      },
+      {
+        "course": "French Polynesia",
+        "entry_req": "158,725"
+      },
+      {
+        "course": "Eswatini",
+        "entry_req": "547"
+      },
+      {
+        "course": "Guyana",
+        "entry_req": "1,038"
+      },
+      {
+        "course": "Belize",
+        "entry_req": "1,543"
+      },
+      {
+        "course": "Fiji",
+        "entry_req": "1,106"
+      },
+      {
+        "course": "Madagascar",
+        "entry_req": "7"
+      },
+      {
+        "course": "Cabo Verde",
+        "entry_req": "537"
+      },
+      {
+        "course": "Sudan",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Mauritania",
+        "entry_req": "78"
+      },
+      {
+        "course": "Bhutan",
+        "entry_req": "1,411"
+      },
+      {
+        "course": "Syria",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Burundi",
+        "entry_req": "88"
+      },
+      {
+        "course": "Seychelles",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Gabon",
+        "entry_req": "30"
+      },
+      {
+        "course": "Andorra",
+        "entry_req": "3,705"
+      },
+      {
+        "course": "Papua New Guinea",
+        "entry_req": "3"
+      },
+      {
+        "course": "Curaçao",
+        "entry_req": "5,866"
+      },
+      {
+        "course": "Aruba",
+        "entry_req": "13,884"
+      },
+      {
+        "course": "Tanzania",
+        "entry_req": "667"
+      },
+      {
+        "course": "Mauritius",
+        "entry_req": "546"
+      },
+      {
+        "course": "Mayotte",
+        "entry_req": "135,804"
+      },
+      {
+        "course": "Togo",
+        "entry_req": "0.1"
+      },
+      {
+        "course": "Guinea",
+        "entry_req": "25"
+      },
+      {
+        "course": "Bahamas",
+        "entry_req": "2,182"
+      },
+      {
+        "course": "Isle of Man",
+        "entry_req": "129,450"
+      },
+      {
+        "course": "Lesotho",
+        "entry_req": "4,337"
+      },
+      {
+        "course": "Haiti",
+        "entry_req": "6"
+      },
+      {
+        "course": "Faeroe Islands",
+        "entry_req": "547,133"
+      },
+      {
+        "course": "Mali",
+        "entry_req": "4"
+      },
+      {
+        "course": "Cayman Islands",
+        "entry_req": "340,116"
+      },
+      {
+        "course": "Saint Lucia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Benin",
+        "entry_req": "2"
+      },
+      {
+        "course": "Macao",
+        "entry_req": "36,050"
+      },
+      {
+        "course": "Somalia",
+        "entry_req": "759"
+      },
+      {
+        "course": "Micronesia",
+        "entry_req": "162,271"
+      },
+      {
+        "course": "San Marino",
+        "entry_req": "1,350"
+      },
+      {
+        "course": "Solomon Islands",
+        "entry_req": "13,032"
+      },
+      {
+        "course": "Congo",
+        "entry_req": "170"
+      },
+      {
+        "course": "Timor-Leste",
+        "entry_req": "161"
+      },
+      {
+        "course": "Burkina Faso",
+        "entry_req": "5"
+      },
+      {
+        "course": "Liechtenstein",
+        "entry_req": "3,334"
+      },
+      {
+        "course": "Gibraltar",
+        "entry_req": "114,467"
+      },
+      {
+        "course": "Grenada",
+        "entry_req": "855"
+      },
+      {
+        "course": "Bermuda",
+        "entry_req": "161"
+      },
+      {
+        "course": "South Sudan",
+        "entry_req": "48"
+      },
+      {
+        "course": "Nicaragua",
+        "entry_req": "2,071"
+      },
+      {
+        "course": "Tajikistan",
+        "entry_req": "40"
+      },
+      {
+        "course": "Equatorial Guinea",
+        "entry_req": "93"
+      },
+      {
+        "course": "Monaco",
+        "entry_req": "28,203"
+      },
+      {
+        "course": "Samoa",
+        "entry_req": "75,999"
+      },
+      {
+        "course": "Tonga",
+        "entry_req": "12,056"
+      },
+      {
+        "course": "Marshall Islands",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Dominica",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Djibouti",
+        "entry_req": "73"
+      },
+      {
+        "course": "CAR",
+        "entry_req": "25"
+      },
+      {
+        "course": "Gambia",
+        "entry_req": "25"
+      },
+      {
+        "course": "Saint Martin",
+        "entry_req": "273,395"
+      },
+      {
+        "course": "Vanuatu",
+        "entry_req": "90"
+      },
+      {
+        "course": "Greenland",
+        "entry_req": "161,287"
+      },
+      {
+        "course": "Yemen",
+        "entry_req": "21"
+      },
+      {
+        "course": "Caribbean Netherlands",
+        "entry_req": "43,832"
+      },
+      {
+        "course": "Sint Maarten",
+        "entry_req": "1,228"
+      },
+      {
+        "course": "Eritrea",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Niger",
+        "entry_req": "28"
+      },
+      {
+        "course": "St. Vincent Grenadines",
+        "entry_req": "511"
+      },
+      {
+        "course": "Guinea-Bissau",
+        "entry_req": "246"
+      },
+      {
+        "course": "Comoros",
+        "entry_req": "10"
+      },
+      {
+        "course": "Antigua and Barbuda",
+        "entry_req": "60"
+      },
+      {
+        "course": "Liberia",
+        "entry_req": "2"
+      },
+      {
+        "course": "Sierra Leone",
+        "entry_req": "332"
+      },
+      {
+        "course": "Chad",
+        "entry_req": "151"
+      },
+      {
+        "course": "British Virgin Islands",
+        "entry_req": "3,236"
+      },
+      {
+        "course": "Cook Islands",
+        "entry_req": "2,903"
+      },
+      {
+        "course": "Sao Tome and Principe",
+        "entry_req": "57"
+      },
+      {
+        "course": "Turks and Caicos",
+        "entry_req": "75"
+      },
+      {
+        "course": "Saint Kitts and Nevis",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Palau",
+        "entry_req": "219"
+      },
+      {
+        "course": "St. Barth",
+        "entry_req": "506,687"
+      },
+      {
+        "course": "Nauru",
+        "entry_req": "4,127"
+      },
+      {
+        "course": "Kiribati",
+        "entry_req": "19,106"
+      },
+      {
+        "course": "Anguilla",
+        "entry_req": "854"
+      },
+      {
+        "course": "Wallis and Futuna",
+        "entry_req": "282,644"
+      },
+      {
+        "course": "Saint Pierre Miquelon",
+        "entry_req": "173,815"
+      },
+      {
+        "course": "Tuvalu",
+        "entry_req": "243,826"
+      },
+      {
+        "course": "Saint Helena",
+        "entry_req": "353,884"
+      },
+      {
+        "course": "Falkland Islands",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Montserrat",
+        "entry_req": "3,827"
+      },
+      {
+        "course": "Niue",
+        "entry_req": "1,850"
+      },
+      {
+        "course": "Diamond Princess",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Tokelau",
+        "entry_req": "58,055"
+      },
+      {
+        "course": "Vatican City",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Western Sahara",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "MS Zaandam",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "China",
+        "entry_req": "82"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      }
+    ]
+  },
+  {
+    "slot": "Check 2",
+    "scraped_at": "2026-06-23T20:17:55",
+    "courses": [
+      {
+        "course": "North America",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Asia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Europe",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "South America",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Oceania",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Africa",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "World",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "USA",
+        "entry_req": "2,348"
+      },
+      {
+        "course": "India",
+        "entry_req": "0.4"
+      },
+      {
+        "course": "France",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Germany",
+        "entry_req": "4,833"
+      },
+      {
+        "course": "Brazil",
+        "entry_req": "8,281"
+      },
+      {
+        "course": "S. Korea",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Japan",
+        "entry_req": "95,582"
+      },
+      {
+        "course": "Italy",
+        "entry_req": "2,747"
+      },
+      {
+        "course": "UK",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Russia",
+        "entry_req": "1,205"
+      },
+      {
+        "course": "Turkey",
+        "entry_req": "4,024"
+      },
+      {
+        "course": "Spain",
+        "entry_req": "656"
+      },
+      {
+        "course": "Australia",
+        "entry_req": "334"
+      },
+      {
+        "course": "Vietnam",
+        "entry_req": "9,510"
+      },
+      {
+        "course": "Taiwan",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Argentina",
+        "entry_req": "16"
+      },
+      {
+        "course": "Netherlands",
+        "entry_req": "11"
+      },
+      {
+        "course": "Mexico",
+        "entry_req": "3,557"
+      },
+      {
+        "course": "Iran",
+        "entry_req": "1,199"
+      },
+      {
+        "course": "Indonesia",
+        "entry_req": "72"
+      },
+      {
+        "course": "Poland",
+        "entry_req": "31,941"
+      },
+      {
+        "course": "Colombia",
+        "entry_req": "870"
+      },
+      {
+        "course": "Greece",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Austria",
+        "entry_req": "420"
+      },
+      {
+        "course": "Portugal",
+        "entry_req": "13"
+      },
+      {
+        "course": "Ukraine",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Chile",
+        "entry_req": "3,528"
+      },
+      {
+        "course": "Malaysia",
+        "entry_req": "235"
+      },
+      {
+        "course": "Canada",
+        "entry_req": "150"
+      },
+      {
+        "course": "Belgium",
+        "entry_req": "45"
+      },
+      {
+        "course": "Israel",
+        "entry_req": "3,280"
+      },
+      {
+        "course": "DPRK",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Thailand",
+        "entry_req": "613"
+      },
+      {
+        "course": "Czechia",
+        "entry_req": "30"
+      },
+      {
+        "course": "Peru",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Switzerland",
+        "entry_req": "33"
+      },
+      {
+        "course": "Philippines",
+        "entry_req": "55"
+      },
+      {
+        "course": "South Africa",
+        "entry_req": "1,010"
+      },
+      {
+        "course": "Romania",
+        "entry_req": "35"
+      },
+      {
+        "course": "Denmark",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Singapore",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Hong Kong",
+        "entry_req": "878"
+      },
+      {
+        "course": "Sweden",
+        "entry_req": "23"
+      },
+      {
+        "course": "New Zealand",
+        "entry_req": "331"
+      },
+      {
+        "course": "Serbia",
+        "entry_req": "45"
+      },
+      {
+        "course": "Iraq",
+        "entry_req": "16"
+      },
+      {
+        "course": "Hungary",
+        "entry_req": "3,022"
+      },
+      {
+        "course": "Bangladesh",
+        "entry_req": "-168.58"
+      },
+      {
+        "course": "Slovakia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Georgia",
+        "entry_req": "17,130"
+      },
+      {
+        "course": "Jordan",
+        "entry_req": "181"
+      },
+      {
+        "course": "Ireland",
+        "entry_req": "34"
+      },
+      {
+        "course": "Pakistan",
+        "entry_req": "55"
+      },
+      {
+        "course": "Finland",
+        "entry_req": "31"
+      },
+      {
+        "course": "Norway",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Kazakhstan",
+        "entry_req": "779"
+      },
+      {
+        "course": "Lithuania",
+        "entry_req": "162"
+      },
+      {
+        "course": "Slovenia",
+        "entry_req": "11"
+      },
+      {
+        "course": "Bulgaria",
+        "entry_req": "1,192"
+      },
+      {
+        "course": "Croatia",
+        "entry_req": "8,033"
+      },
+      {
+        "course": "Guatemala",
+        "entry_req": "60"
+      },
+      {
+        "course": "Morocco",
+        "entry_req": "173"
+      },
+      {
+        "course": "Lebanon",
+        "entry_req": "21,736"
+      },
+      {
+        "course": "Costa Rica",
+        "entry_req": "71,154"
+      },
+      {
+        "course": "Bolivia",
+        "entry_req": "1,049"
+      },
+      {
+        "course": "Tunisia",
+        "entry_req": "1,157"
+      },
+      {
+        "course": "Cuba",
+        "entry_req": "5"
+      },
+      {
+        "course": "Ecuador",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "UAE",
+        "entry_req": "1,007"
+      },
+      {
+        "course": "Panama",
+        "entry_req": "14"
+      },
+      {
+        "course": "Uruguay",
+        "entry_req": "716"
+      },
+      {
+        "course": "Mongolia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Nepal",
+        "entry_req": "3"
+      },
+      {
+        "course": "Belarus",
+        "entry_req": "141"
+      },
+      {
+        "course": "Latvia",
+        "entry_req": "2,371"
+      },
+      {
+        "course": "Saudi Arabia",
+        "entry_req": "109"
+      },
+      {
+        "course": "Paraguay",
+        "entry_req": "16,306"
+      },
+      {
+        "course": "Azerbaijan",
+        "entry_req": "72"
+      },
+      {
+        "course": "Bahrain",
+        "entry_req": "34"
+      },
+      {
+        "course": "Cyprus",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Dominican Republic",
+        "entry_req": "17"
+      },
+      {
+        "course": "Sri Lanka",
+        "entry_req": "0.2"
+      },
+      {
+        "course": "Kuwait",
+        "entry_req": "993"
+      },
+      {
+        "course": "Myanmar",
+        "entry_req": "40"
+      },
+      {
+        "course": "Moldova",
+        "entry_req": "29,599"
+      },
+      {
+        "course": "Estonia",
+        "entry_req": "75,708"
+      },
+      {
+        "course": "Palestine",
+        "entry_req": "30"
+      },
+      {
+        "course": "Venezuela",
+        "entry_req": "10"
+      },
+      {
+        "course": "Egypt",
+        "entry_req": "464"
+      },
+      {
+        "course": "Qatar",
+        "entry_req": "49"
+      },
+      {
+        "course": "Libya",
+        "entry_req": "0.3"
+      },
+      {
+        "course": "Ethiopia",
+        "entry_req": "45"
+      },
+      {
+        "course": "Réunion",
+        "entry_req": "82,706"
+      },
+      {
+        "course": "Honduras",
+        "entry_req": "32,372"
+      },
+      {
+        "course": "Armenia",
+        "entry_req": "2,655"
+      },
+      {
+        "course": "Bosnia and Herzegovina",
+        "entry_req": "2,506"
+      },
+      {
+        "course": "Oman",
+        "entry_req": "1,907"
+      },
+      {
+        "course": "Luxembourg",
+        "entry_req": "114,124"
+      },
+      {
+        "course": "North Macedonia",
+        "entry_req": "1,693"
+      },
+      {
+        "course": "Zambia",
+        "entry_req": "201"
+      },
+      {
+        "course": "Kenya",
+        "entry_req": "20"
+      },
+      {
+        "course": "Brunei",
+        "entry_req": "224,261"
+      },
+      {
+        "course": "Albania",
+        "entry_req": "358"
+      },
+      {
+        "course": "Botswana",
+        "entry_req": "323"
+      },
+      {
+        "course": "Montenegro",
+        "entry_req": "3,029"
+      },
+      {
+        "course": "Algeria",
+        "entry_req": "1,810"
+      },
+      {
+        "course": "Nigeria",
+        "entry_req": "19"
+      },
+      {
+        "course": "Zimbabwe",
+        "entry_req": "113"
+      },
+      {
+        "course": "Uzbekistan",
+        "entry_req": "307"
+      },
+      {
+        "course": "Afghanistan",
+        "entry_req": "370"
+      },
+      {
+        "course": "Mozambique",
+        "entry_req": "81"
+      },
+      {
+        "course": "Martinique",
+        "entry_req": "612,553"
+      },
+      {
+        "course": "Laos",
+        "entry_req": "28,145"
+      },
+      {
+        "course": "Iceland",
+        "entry_req": "387,941"
+      },
+      {
+        "course": "Kyrgyzstan",
+        "entry_req": "1,115"
+      },
+      {
+        "course": "Guadeloupe",
+        "entry_req": "500,168"
+      },
+      {
+        "course": "El Salvador",
+        "entry_req": "2,781"
+      },
+      {
+        "course": "Trinidad and Tobago",
+        "entry_req": "20"
+      },
+      {
+        "course": "Maldives",
+        "entry_req": "41,944"
+      },
+      {
+        "course": "Namibia",
+        "entry_req": "450"
+      },
+      {
+        "course": "Uganda",
+        "entry_req": "1,406"
+      },
+      {
+        "course": "Ghana",
+        "entry_req": "0.06"
+      },
+      {
+        "course": "Jamaica",
+        "entry_req": "16,712"
+      },
+      {
+        "course": "Cambodia",
+        "entry_req": "0.2"
+      },
+      {
+        "course": "Rwanda",
+        "entry_req": "0.8"
+      },
+      {
+        "course": "Cameroon",
+        "entry_req": "4"
+      },
+      {
+        "course": "Malta",
+        "entry_req": "869"
+      },
+      {
+        "course": "Barbados",
+        "entry_req": "4,455"
+      },
+      {
+        "course": "Angola",
+        "entry_req": "56"
+      },
+      {
+        "course": "Channel Islands",
+        "entry_req": "952"
+      },
+      {
+        "course": "DRC",
+        "entry_req": "140"
+      },
+      {
+        "course": "French Guiana",
+        "entry_req": "274,906"
+      },
+      {
+        "course": "Malawi",
+        "entry_req": "16"
+      },
+      {
+        "course": "Senegal",
+        "entry_req": "3"
+      },
+      {
+        "course": "Ivory Coast",
+        "entry_req": "2"
+      },
+      {
+        "course": "Suriname",
+        "entry_req": "52,623"
+      },
+      {
+        "course": "New Caledonia",
+        "entry_req": "498"
+      },
+      {
+        "course": "French Polynesia",
+        "entry_req": "158,725"
+      },
+      {
+        "course": "Eswatini",
+        "entry_req": "547"
+      },
+      {
+        "course": "Guyana",
+        "entry_req": "1,038"
+      },
+      {
+        "course": "Belize",
+        "entry_req": "1,543"
+      },
+      {
+        "course": "Fiji",
+        "entry_req": "1,106"
+      },
+      {
+        "course": "Madagascar",
+        "entry_req": "7"
+      },
+      {
+        "course": "Cabo Verde",
+        "entry_req": "537"
+      },
+      {
+        "course": "Sudan",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Mauritania",
+        "entry_req": "78"
+      },
+      {
+        "course": "Bhutan",
+        "entry_req": "1,411"
+      },
+      {
+        "course": "Syria",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Burundi",
+        "entry_req": "88"
+      },
+      {
+        "course": "Seychelles",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Gabon",
+        "entry_req": "30"
+      },
+      {
+        "course": "Andorra",
+        "entry_req": "3,705"
+      },
+      {
+        "course": "Papua New Guinea",
+        "entry_req": "3"
+      },
+      {
+        "course": "Curaçao",
+        "entry_req": "5,866"
+      },
+      {
+        "course": "Aruba",
+        "entry_req": "13,884"
+      },
+      {
+        "course": "Tanzania",
+        "entry_req": "667"
+      },
+      {
+        "course": "Mauritius",
+        "entry_req": "546"
+      },
+      {
+        "course": "Mayotte",
+        "entry_req": "135,804"
+      },
+      {
+        "course": "Togo",
+        "entry_req": "0.1"
+      },
+      {
+        "course": "Guinea",
+        "entry_req": "25"
+      },
+      {
+        "course": "Bahamas",
+        "entry_req": "2,182"
+      },
+      {
+        "course": "Isle of Man",
+        "entry_req": "129,450"
+      },
+      {
+        "course": "Lesotho",
+        "entry_req": "4,337"
+      },
+      {
+        "course": "Haiti",
+        "entry_req": "6"
+      },
+      {
+        "course": "Faeroe Islands",
+        "entry_req": "547,133"
+      },
+      {
+        "course": "Mali",
+        "entry_req": "4"
+      },
+      {
+        "course": "Cayman Islands",
+        "entry_req": "340,116"
+      },
+      {
+        "course": "Saint Lucia",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Benin",
+        "entry_req": "2"
+      },
+      {
+        "course": "Macao",
+        "entry_req": "36,050"
+      },
+      {
+        "course": "Somalia",
+        "entry_req": "759"
+      },
+      {
+        "course": "Micronesia",
+        "entry_req": "162,271"
+      },
+      {
+        "course": "San Marino",
+        "entry_req": "1,350"
+      },
+      {
+        "course": "Solomon Islands",
+        "entry_req": "13,032"
+      },
+      {
+        "course": "Congo",
+        "entry_req": "170"
+      },
+      {
+        "course": "Timor-Leste",
+        "entry_req": "161"
+      },
+      {
+        "course": "Burkina Faso",
+        "entry_req": "5"
+      },
+      {
+        "course": "Liechtenstein",
+        "entry_req": "3,334"
+      },
+      {
+        "course": "Gibraltar",
+        "entry_req": "114,467"
+      },
+      {
+        "course": "Grenada",
+        "entry_req": "855"
+      },
+      {
+        "course": "Bermuda",
+        "entry_req": "161"
+      },
+      {
+        "course": "South Sudan",
+        "entry_req": "48"
+      },
+      {
+        "course": "Nicaragua",
+        "entry_req": "2,071"
+      },
+      {
+        "course": "Tajikistan",
+        "entry_req": "40"
+      },
+      {
+        "course": "Equatorial Guinea",
+        "entry_req": "93"
+      },
+      {
+        "course": "Monaco",
+        "entry_req": "28,203"
+      },
+      {
+        "course": "Samoa",
+        "entry_req": "75,999"
+      },
+      {
+        "course": "Tonga",
+        "entry_req": "12,056"
+      },
+      {
+        "course": "Marshall Islands",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Dominica",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Djibouti",
+        "entry_req": "73"
+      },
+      {
+        "course": "CAR",
+        "entry_req": "25"
+      },
+      {
+        "course": "Gambia",
+        "entry_req": "25"
+      },
+      {
+        "course": "Saint Martin",
+        "entry_req": "273,395"
+      },
+      {
+        "course": "Vanuatu",
+        "entry_req": "90"
+      },
+      {
+        "course": "Greenland",
+        "entry_req": "161,287"
+      },
+      {
+        "course": "Yemen",
+        "entry_req": "21"
+      },
+      {
+        "course": "Caribbean Netherlands",
+        "entry_req": "43,832"
+      },
+      {
+        "course": "Sint Maarten",
+        "entry_req": "1,228"
+      },
+      {
+        "course": "Eritrea",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Niger",
+        "entry_req": "28"
+      },
+      {
+        "course": "St. Vincent Grenadines",
+        "entry_req": "511"
+      },
+      {
+        "course": "Guinea-Bissau",
+        "entry_req": "246"
+      },
+      {
+        "course": "Comoros",
+        "entry_req": "10"
+      },
+      {
+        "course": "Antigua and Barbuda",
+        "entry_req": "60"
+      },
+      {
+        "course": "Liberia",
+        "entry_req": "2"
+      },
+      {
+        "course": "Sierra Leone",
+        "entry_req": "332"
+      },
+      {
+        "course": "Chad",
+        "entry_req": "151"
+      },
+      {
+        "course": "British Virgin Islands",
+        "entry_req": "3,236"
+      },
+      {
+        "course": "Cook Islands",
+        "entry_req": "2,903"
+      },
+      {
+        "course": "Sao Tome and Principe",
+        "entry_req": "57"
+      },
+      {
+        "course": "Turks and Caicos",
+        "entry_req": "75"
+      },
+      {
+        "course": "Saint Kitts and Nevis",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Palau",
+        "entry_req": "219"
+      },
+      {
+        "course": "St. Barth",
+        "entry_req": "506,687"
+      },
+      {
+        "course": "Nauru",
+        "entry_req": "4,127"
+      },
+      {
+        "course": "Kiribati",
+        "entry_req": "19,106"
+      },
+      {
+        "course": "Anguilla",
+        "entry_req": "854"
+      },
+      {
+        "course": "Wallis and Futuna",
+        "entry_req": "282,644"
+      },
+      {
+        "course": "Saint Pierre Miquelon",
+        "entry_req": "173,815"
+      },
+      {
+        "course": "Tuvalu",
+        "entry_req": "243,826"
+      },
+      {
+        "course": "Saint Helena",
+        "entry_req": "353,884"
+      },
+      {
+        "course": "Falkland Islands",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Montserrat",
+        "entry_req": "3,827"
+      },
+      {
+        "course": "Niue",
+        "entry_req": "1,850"
+      },
+      {
+        "course": "Diamond Princess",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Tokelau",
+        "entry_req": "58,055"
+      },
+      {
+        "course": "Vatican City",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Western Sahara",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "MS Zaandam",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "China",
+        "entry_req": "82"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      },
+      {
+        "course": "Total:",
+        "entry_req": "N/A"
+      }
+    ]
+  }
+]

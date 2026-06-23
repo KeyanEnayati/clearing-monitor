@@ -1,0 +1,77 @@
+{
+  "Bitcoin": {
+    "req": "GBP 47,257.00",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:37:14"
+  },
+  "Ethereum": {
+    "req": "GBP 1,257.76",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:37:14"
+  },
+  "Tether": {
+    "req": "GBP 0.76",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:36:10"
+  },
+  "BNB": {
+    "req": "GBP 435.92",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:37:14"
+  },
+  "USDC": {
+    "req": "GBP 0.76",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:36:10"
+  },
+  "XRP": {
+    "req": "GBP 0.84",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:36:10"
+  },
+  "Solana": {
+    "req": "GBP 52.18",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:37:14"
+  },
+  "TRON": {
+    "req": "GBP 0.25",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:36:10"
+  },
+  "Figure Heloc": {
+    "req": "GBP 0.78",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:36:10"
+  },
+  "Hyperliquid": {
+    "req": "GBP 47.40",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:37:14"
+  },
+  "Dogecoin": {
+    "req": "GBP 0.06",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:36:10"
+  },
+  "USDS": {
+    "req": "GBP 0.76",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:36:10"
+  },
+  "Rain": {
+    "req": "GBP 0.01",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:36:10"
+  },
+  "LEO Token": {
+    "req": "GBP 7.24",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:36:10"
+  },
+  "Zcash": {
+    "req": "GBP 316.54",
+    "first_seen": "2026-06-23T21:36:10",
+    "last_changed": "2026-06-23T21:37:14"
+  }
+}

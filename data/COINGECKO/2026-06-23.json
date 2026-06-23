@@ -1,0 +1,1032 @@
+[
+  {
+    "slot": "Check 1",
+    "scraped_at": "2026-06-23T20:08:43",
+    "courses": [
+      {
+        "course": "BitcoinBTC",
+        "entry_req": "$62,295.29"
+      },
+      {
+        "course": "EthereumETH",
+        "entry_req": "$1,657.99"
+      },
+      {
+        "course": "TetherUSDT",
+        "entry_req": "$0.9988"
+      },
+      {
+        "course": "BNBBNB",
+        "entry_req": "$574.16"
+      },
+      {
+        "course": "USDCUSDC",
+        "entry_req": "$0.9997"
+      },
+      {
+        "course": "XRPXRP",
+        "entry_req": "$1.10"
+      },
+      {
+        "course": "SolanaSOL",
+        "entry_req": "$68.90"
+      },
+      {
+        "course": "TRONTRX",
+        "entry_req": "$0.329"
+      },
+      {
+        "course": "Figure HelocFIGR_HELOC",
+        "entry_req": "$1.03"
+      },
+      {
+        "course": "HyperliquidHYPE",
+        "entry_req": "$61.92"
+      },
+      {
+        "course": "DogecoinDOGE",
+        "entry_req": "$0.07856"
+      },
+      {
+        "course": "USDSUSDS",
+        "entry_req": "$0.9996"
+      },
+      {
+        "course": "RainRAIN",
+        "entry_req": "$0.01563"
+      },
+      {
+        "course": "LEO TokenLEO",
+        "entry_req": "$9.51"
+      },
+      {
+        "course": "ZcashZEC",
+        "entry_req": "$414.47"
+      },
+      {
+        "course": "StellarXLM",
+        "entry_req": "$0.1941"
+      },
+      {
+        "course": "WhiteBIT CoinWBT",
+        "entry_req": "$50.66"
+      },
+      {
+        "course": "MoneroXMR",
+        "entry_req": "$316.28"
+      },
+      {
+        "course": "CantonCC",
+        "entry_req": "$0.1524"
+      },
+      {
+        "course": "ChainlinkLINK",
+        "entry_req": "$7.57"
+      },
+      {
+        "course": "CardanoADA",
+        "entry_req": "$0.1502"
+      },
+      {
+        "course": "USD1USD1",
+        "entry_req": "$0.9987"
+      },
+      {
+        "course": "LABLAB",
+        "entry_req": "$15.22"
+      },
+      {
+        "course": "DaiDAI",
+        "entry_req": "$0.9997"
+      },
+      {
+        "course": "Ethena USDeUSDE",
+        "entry_req": "$0.9988"
+      },
+      {
+        "course": "Gram (prev. Toncoin)GRAM",
+        "entry_req": "$1.56"
+      },
+      {
+        "course": "Bitcoin CashBCH",
+        "entry_req": "$190.65"
+      },
+      {
+        "course": "MemeCoreM",
+        "entry_req": "$2.87"
+      },
+      {
+        "course": "HederaHBAR",
+        "entry_req": "$0.07736"
+      },
+      {
+        "course": "LitecoinLTC",
+        "entry_req": "$42.00"
+      },
+      {
+        "course": "Circle USYCUSYC",
+        "entry_req": "$1.13"
+      },
+      {
+        "course": "SuiSUI",
+        "entry_req": "$0.6972"
+      },
+      {
+        "course": "Global DollarUSDG",
+        "entry_req": "$0.9995"
+      },
+      {
+        "course": "PayPal USDPYUSD",
+        "entry_req": "$0.9999"
+      },
+      {
+        "course": "AvalancheAVAX",
+        "entry_req": "$6.30"
+      },
+      {
+        "course": "Shiba InuSHIB",
+        "entry_req": "$0.054536"
+      },
+      {
+        "course": "CronosCRO",
+        "entry_req": "$0.05648"
+      },
+      {
+        "course": "NEAR ProtocolNEAR",
+        "entry_req": "$1.98"
+      },
+      {
+        "course": "Tether GoldXAUT",
+        "entry_req": "$4,107.25"
+      },
+      {
+        "course": "BlackRock USD Institutional Digital Liquidity FundBUIDL",
+        "entry_req": "$1.00"
+      },
+      {
+        "course": "Ondo US Dollar YieldUSDY",
+        "entry_req": "$1.13"
+      },
+      {
+        "course": "BittensorTAO",
+        "entry_req": "$216.39"
+      },
+      {
+        "course": "World Liberty FinancialWLFI",
+        "entry_req": "$0.05885"
+      },
+      {
+        "course": "WorldcoinWLD",
+        "entry_req": "$0.5382"
+      },
+      {
+        "course": "PAX GoldPAXG",
+        "entry_req": "$4,113.30"
+      },
+      {
+        "course": "UniswapUNI",
+        "entry_req": "$2.89"
+      },
+      {
+        "course": "MantleMNT",
+        "entry_req": "$0.5144"
+      },
+      {
+        "course": "AsterASTER",
+        "entry_req": "$0.6205"
+      },
+      {
+        "course": "Ripple USDRLUSD",
+        "entry_req": "$0.9998"
+      },
+      {
+        "course": "OKBOKB",
+        "entry_req": "$76.61"
+      }
+    ]
+  },
+  {
+    "slot": "Check 2",
+    "scraped_at": "2026-06-23T20:11:31",
+    "courses": [
+      {
+        "course": "BitcoinBTC",
+        "entry_req": "$62,268.17"
+      },
+      {
+        "course": "EthereumETH",
+        "entry_req": "$1,657.56"
+      },
+      {
+        "course": "TetherUSDT",
+        "entry_req": "$0.9988"
+      },
+      {
+        "course": "BNBBNB",
+        "entry_req": "$574.09"
+      },
+      {
+        "course": "USDCUSDC",
+        "entry_req": "$0.9998"
+      },
+      {
+        "course": "XRPXRP",
+        "entry_req": "$1.10"
+      },
+      {
+        "course": "SolanaSOL",
+        "entry_req": "$68.89"
+      },
+      {
+        "course": "TRONTRX",
+        "entry_req": "$0.329"
+      },
+      {
+        "course": "Figure HelocFIGR_HELOC",
+        "entry_req": "$1.03"
+      },
+      {
+        "course": "HyperliquidHYPE",
+        "entry_req": "$61.95"
+      },
+      {
+        "course": "DogecoinDOGE",
+        "entry_req": "$0.07855"
+      },
+      {
+        "course": "USDSUSDS",
+        "entry_req": "$0.9996"
+      },
+      {
+        "course": "RainRAIN",
+        "entry_req": "$0.01563"
+      },
+      {
+        "course": "LEO TokenLEO",
+        "entry_req": "$9.51"
+      },
+      {
+        "course": "ZcashZEC",
+        "entry_req": "$414.34"
+      },
+      {
+        "course": "StellarXLM",
+        "entry_req": "$0.1941"
+      },
+      {
+        "course": "WhiteBIT CoinWBT",
+        "entry_req": "$50.66"
+      },
+      {
+        "course": "MoneroXMR",
+        "entry_req": "$316.08"
+      },
+      {
+        "course": "CantonCC",
+        "entry_req": "$0.1523"
+      },
+      {
+        "course": "ChainlinkLINK",
+        "entry_req": "$7.58"
+      },
+      {
+        "course": "CardanoADA",
+        "entry_req": "$0.1502"
+      },
+      {
+        "course": "USD1USD1",
+        "entry_req": "$0.9991"
+      },
+      {
+        "course": "LABLAB",
+        "entry_req": "$15.39"
+      },
+      {
+        "course": "DaiDAI",
+        "entry_req": "$0.9998"
+      },
+      {
+        "course": "Ethena USDeUSDE",
+        "entry_req": "$0.9988"
+      },
+      {
+        "course": "Gram (prev. Toncoin)GRAM",
+        "entry_req": "$1.56"
+      },
+      {
+        "course": "Bitcoin CashBCH",
+        "entry_req": "$190.76"
+      },
+      {
+        "course": "MemeCoreM",
+        "entry_req": "$2.87"
+      },
+      {
+        "course": "HederaHBAR",
+        "entry_req": "$0.0774"
+      },
+      {
+        "course": "LitecoinLTC",
+        "entry_req": "$41.99"
+      },
+      {
+        "course": "Circle USYCUSYC",
+        "entry_req": "$1.13"
+      },
+      {
+        "course": "SuiSUI",
+        "entry_req": "$0.6971"
+      },
+      {
+        "course": "Global DollarUSDG",
+        "entry_req": "$0.9997"
+      },
+      {
+        "course": "PayPal USDPYUSD",
+        "entry_req": "$0.9997"
+      },
+      {
+        "course": "AvalancheAVAX",
+        "entry_req": "$6.30"
+      },
+      {
+        "course": "Shiba InuSHIB",
+        "entry_req": "$0.054534"
+      },
+      {
+        "course": "CronosCRO",
+        "entry_req": "$0.05646"
+      },
+      {
+        "course": "NEAR ProtocolNEAR",
+        "entry_req": "$1.98"
+      },
+      {
+        "course": "Tether GoldXAUT",
+        "entry_req": "$4,107.30"
+      },
+      {
+        "course": "BlackRock USD Institutional Digital Liquidity FundBUIDL",
+        "entry_req": "$1"
+      },
+      {
+        "course": "Ondo US Dollar YieldUSDY",
+        "entry_req": "$1.13"
+      },
+      {
+        "course": "BittensorTAO",
+        "entry_req": "$216.52"
+      },
+      {
+        "course": "World Liberty FinancialWLFI",
+        "entry_req": "$0.05895"
+      },
+      {
+        "course": "WorldcoinWLD",
+        "entry_req": "$0.5384"
+      },
+      {
+        "course": "PAX GoldPAXG",
+        "entry_req": "$4,113.44"
+      },
+      {
+        "course": "UniswapUNI",
+        "entry_req": "$2.89"
+      },
+      {
+        "course": "MantleMNT",
+        "entry_req": "$0.5128"
+      },
+      {
+        "course": "AsterASTER",
+        "entry_req": "$0.6203"
+      },
+      {
+        "course": "Ripple USDRLUSD",
+        "entry_req": "$0.9998"
+      },
+      {
+        "course": "OKBOKB",
+        "entry_req": "$76.62"
+      }
+    ]
+  },
+  {
+    "slot": "Check 2",
+    "scraped_at": "2026-06-23T20:15:30",
+    "courses": [
+      {
+        "course": "BitcoinBTC",
+        "entry_req": "$62,284.90"
+      },
+      {
+        "course": "EthereumETH",
+        "entry_req": "$1,657.72"
+      },
+      {
+        "course": "TetherUSDT",
+        "entry_req": "$0.9988"
+      },
+      {
+        "course": "BNBBNB",
+        "entry_req": "$574.25"
+      },
+      {
+        "course": "USDCUSDC",
+        "entry_req": "$0.9997"
+      },
+      {
+        "course": "XRPXRP",
+        "entry_req": "$1.10"
+      },
+      {
+        "course": "SolanaSOL",
+        "entry_req": "$68.86"
+      },
+      {
+        "course": "TRONTRX",
+        "entry_req": "$0.329"
+      },
+      {
+        "course": "Figure HelocFIGR_HELOC",
+        "entry_req": "$1.03"
+      },
+      {
+        "course": "HyperliquidHYPE",
+        "entry_req": "$62.01"
+      },
+      {
+        "course": "DogecoinDOGE",
+        "entry_req": "$0.07852"
+      },
+      {
+        "course": "USDSUSDS",
+        "entry_req": "$0.9996"
+      },
+      {
+        "course": "RainRAIN",
+        "entry_req": "$0.01563"
+      },
+      {
+        "course": "LEO TokenLEO",
+        "entry_req": "$9.50"
+      },
+      {
+        "course": "ZcashZEC",
+        "entry_req": "$414.05"
+      },
+      {
+        "course": "StellarXLM",
+        "entry_req": "$0.1941"
+      },
+      {
+        "course": "WhiteBIT CoinWBT",
+        "entry_req": "$50.75"
+      },
+      {
+        "course": "MoneroXMR",
+        "entry_req": "$315.45"
+      },
+      {
+        "course": "CantonCC",
+        "entry_req": "$0.1524"
+      },
+      {
+        "course": "ChainlinkLINK",
+        "entry_req": "$7.58"
+      },
+      {
+        "course": "CardanoADA",
+        "entry_req": "$0.1502"
+      },
+      {
+        "course": "USD1USD1",
+        "entry_req": "$0.9994"
+      },
+      {
+        "course": "LABLAB",
+        "entry_req": "$15.46"
+      },
+      {
+        "course": "DaiDAI",
+        "entry_req": "$0.9998"
+      },
+      {
+        "course": "Ethena USDeUSDE",
+        "entry_req": "$0.9988"
+      },
+      {
+        "course": "Gram (prev. Toncoin)GRAM",
+        "entry_req": "$1.55"
+      },
+      {
+        "course": "Bitcoin CashBCH",
+        "entry_req": "$190.82"
+      },
+      {
+        "course": "MemeCoreM",
+        "entry_req": "$2.87"
+      },
+      {
+        "course": "HederaHBAR",
+        "entry_req": "$0.07736"
+      },
+      {
+        "course": "LitecoinLTC",
+        "entry_req": "$41.98"
+      },
+      {
+        "course": "Circle USYCUSYC",
+        "entry_req": "$1.13"
+      },
+      {
+        "course": "SuiSUI",
+        "entry_req": "$0.6966"
+      },
+      {
+        "course": "Global DollarUSDG",
+        "entry_req": "$0.9996"
+      },
+      {
+        "course": "PayPal USDPYUSD",
+        "entry_req": "$0.9997"
+      },
+      {
+        "course": "AvalancheAVAX",
+        "entry_req": "$6.30"
+      },
+      {
+        "course": "Shiba InuSHIB",
+        "entry_req": "$0.054532"
+      },
+      {
+        "course": "CronosCRO",
+        "entry_req": "$0.05645"
+      },
+      {
+        "course": "NEAR ProtocolNEAR",
+        "entry_req": "$1.98"
+      },
+      {
+        "course": "Tether GoldXAUT",
+        "entry_req": "$4,107.16"
+      },
+      {
+        "course": "BlackRock USD Institutional Digital Liquidity FundBUIDL",
+        "entry_req": "$1.00"
+      },
+      {
+        "course": "Ondo US Dollar YieldUSDY",
+        "entry_req": "$1.13"
+      },
+      {
+        "course": "BittensorTAO",
+        "entry_req": "$216.27"
+      },
+      {
+        "course": "World Liberty FinancialWLFI",
+        "entry_req": "$0.05891"
+      },
+      {
+        "course": "WorldcoinWLD",
+        "entry_req": "$0.5384"
+      },
+      {
+        "course": "PAX GoldPAXG",
+        "entry_req": "$4,112.69"
+      },
+      {
+        "course": "UniswapUNI",
+        "entry_req": "$2.89"
+      },
+      {
+        "course": "MantleMNT",
+        "entry_req": "$0.5109"
+      },
+      {
+        "course": "AsterASTER",
+        "entry_req": "$0.6206"
+      },
+      {
+        "course": "Ripple USDRLUSD",
+        "entry_req": "$0.9999"
+      },
+      {
+        "course": "OKBOKB",
+        "entry_req": "$76.65"
+      }
+    ]
+  },
+  {
+    "slot": "Check 2",
+    "scraped_at": "2026-06-23T20:16:01",
+    "courses": [
+      {
+        "course": "BitcoinBTC",
+        "entry_req": "$62,291.30"
+      },
+      {
+        "course": "EthereumETH",
+        "entry_req": "$1,657.82"
+      },
+      {
+        "course": "TetherUSDT",
+        "entry_req": "$0.9988"
+      },
+      {
+        "course": "BNBBNB",
+        "entry_req": "$574.25"
+      },
+      {
+        "course": "USDCUSDC",
+        "entry_req": "$0.9997"
+      },
+      {
+        "course": "XRPXRP",
+        "entry_req": "$1.10"
+      },
+      {
+        "course": "SolanaSOL",
+        "entry_req": "$68.86"
+      },
+      {
+        "course": "TRONTRX",
+        "entry_req": "$0.329"
+      },
+      {
+        "course": "Figure HelocFIGR_HELOC",
+        "entry_req": "$1.03"
+      },
+      {
+        "course": "HyperliquidHYPE",
+        "entry_req": "$62.00"
+      },
+      {
+        "course": "DogecoinDOGE",
+        "entry_req": "$0.07852"
+      },
+      {
+        "course": "USDSUSDS",
+        "entry_req": "$0.9996"
+      },
+      {
+        "course": "RainRAIN",
+        "entry_req": "$0.01563"
+      },
+      {
+        "course": "LEO TokenLEO",
+        "entry_req": "$9.50"
+      },
+      {
+        "course": "ZcashZEC",
+        "entry_req": "$414.05"
+      },
+      {
+        "course": "StellarXLM",
+        "entry_req": "$0.1941"
+      },
+      {
+        "course": "WhiteBIT CoinWBT",
+        "entry_req": "$50.75"
+      },
+      {
+        "course": "MoneroXMR",
+        "entry_req": "$315.40"
+      },
+      {
+        "course": "CantonCC",
+        "entry_req": "$0.1525"
+      },
+      {
+        "course": "ChainlinkLINK",
+        "entry_req": "$7.58"
+      },
+      {
+        "course": "CardanoADA",
+        "entry_req": "$0.1502"
+      },
+      {
+        "course": "USD1USD1",
+        "entry_req": "$0.9993"
+      },
+      {
+        "course": "LABLAB",
+        "entry_req": "$15.47"
+      },
+      {
+        "course": "DaiDAI",
+        "entry_req": "$0.9998"
+      },
+      {
+        "course": "Ethena USDeUSDE",
+        "entry_req": "$0.9988"
+      },
+      {
+        "course": "Gram (prev. Toncoin)GRAM",
+        "entry_req": "$1.55"
+      },
+      {
+        "course": "Bitcoin CashBCH",
+        "entry_req": "$190.82"
+      },
+      {
+        "course": "MemeCoreM",
+        "entry_req": "$2.87"
+      },
+      {
+        "course": "HederaHBAR",
+        "entry_req": "$0.07736"
+      },
+      {
+        "course": "LitecoinLTC",
+        "entry_req": "$41.98"
+      },
+      {
+        "course": "Circle USYCUSYC",
+        "entry_req": "$1.13"
+      },
+      {
+        "course": "SuiSUI",
+        "entry_req": "$0.6966"
+      },
+      {
+        "course": "Global DollarUSDG",
+        "entry_req": "$0.9996"
+      },
+      {
+        "course": "PayPal USDPYUSD",
+        "entry_req": "$0.9998"
+      },
+      {
+        "course": "AvalancheAVAX",
+        "entry_req": "$6.30"
+      },
+      {
+        "course": "Shiba InuSHIB",
+        "entry_req": "$0.054532"
+      },
+      {
+        "course": "CronosCRO",
+        "entry_req": "$0.05645"
+      },
+      {
+        "course": "NEAR ProtocolNEAR",
+        "entry_req": "$1.98"
+      },
+      {
+        "course": "Tether GoldXAUT",
+        "entry_req": "$4,107.10"
+      },
+      {
+        "course": "BlackRock USD Institutional Digital Liquidity FundBUIDL",
+        "entry_req": "$1.00"
+      },
+      {
+        "course": "Ondo US Dollar YieldUSDY",
+        "entry_req": "$1.13"
+      },
+      {
+        "course": "BittensorTAO",
+        "entry_req": "$216.22"
+      },
+      {
+        "course": "World Liberty FinancialWLFI",
+        "entry_req": "$0.05891"
+      },
+      {
+        "course": "WorldcoinWLD",
+        "entry_req": "$0.5384"
+      },
+      {
+        "course": "PAX GoldPAXG",
+        "entry_req": "$4,112.69"
+      },
+      {
+        "course": "UniswapUNI",
+        "entry_req": "$2.89"
+      },
+      {
+        "course": "MantleMNT",
+        "entry_req": "$0.5117"
+      },
+      {
+        "course": "AsterASTER",
+        "entry_req": "$0.6206"
+      },
+      {
+        "course": "Ripple USDRLUSD",
+        "entry_req": "$0.9999"
+      },
+      {
+        "course": "OKBOKB",
+        "entry_req": "$76.65"
+      }
+    ]
+  },
+  {
+    "slot": "Check 2",
+    "scraped_at": "2026-06-23T20:17:54",
+    "courses": [
+      {
+        "course": "BitcoinBTC",
+        "entry_req": "$62,270.07"
+      },
+      {
+        "course": "EthereumETH",
+        "entry_req": "$1,657.32"
+      },
+      {
+        "course": "TetherUSDT",
+        "entry_req": "$0.9988"
+      },
+      {
+        "course": "BNBBNB",
+        "entry_req": "$574.22"
+      },
+      {
+        "course": "USDCUSDC",
+        "entry_req": "$0.9997"
+      },
+      {
+        "course": "XRPXRP",
+        "entry_req": "$1.10"
+      },
+      {
+        "course": "SolanaSOL",
+        "entry_req": "$68.83"
+      },
+      {
+        "course": "TRONTRX",
+        "entry_req": "$0.329"
+      },
+      {
+        "course": "Figure HelocFIGR_HELOC",
+        "entry_req": "$1.03"
+      },
+      {
+        "course": "HyperliquidHYPE",
+        "entry_req": "$62.01"
+      },
+      {
+        "course": "DogecoinDOGE",
+        "entry_req": "$0.0785"
+      },
+      {
+        "course": "USDSUSDS",
+        "entry_req": "$0.9996"
+      },
+      {
+        "course": "RainRAIN",
+        "entry_req": "$0.01563"
+      },
+      {
+        "course": "LEO TokenLEO",
+        "entry_req": "$9.50"
+      },
+      {
+        "course": "ZcashZEC",
+        "entry_req": "$414.46"
+      },
+      {
+        "course": "StellarXLM",
+        "entry_req": "$0.1942"
+      },
+      {
+        "course": "WhiteBIT CoinWBT",
+        "entry_req": "$50.75"
+      },
+      {
+        "course": "CantonCC",
+        "entry_req": "$0.1524"
+      },
+      {
+        "course": "MoneroXMR",
+        "entry_req": "$315.60"
+      },
+      {
+        "course": "ChainlinkLINK",
+        "entry_req": "$7.58"
+      },
+      {
+        "course": "CardanoADA",
+        "entry_req": "$0.1502"
+      },
+      {
+        "course": "LABLAB",
+        "entry_req": "$15.47"
+      },
+      {
+        "course": "USD1USD1",
+        "entry_req": "$0.9992"
+      },
+      {
+        "course": "DaiDAI",
+        "entry_req": "$0.9996"
+      },
+      {
+        "course": "Ethena USDeUSDE",
+        "entry_req": "$0.9988"
+      },
+      {
+        "course": "Gram (prev. Toncoin)GRAM",
+        "entry_req": "$1.56"
+      },
+      {
+        "course": "Bitcoin CashBCH",
+        "entry_req": "$190.87"
+      },
+      {
+        "course": "MemeCoreM",
+        "entry_req": "$2.87"
+      },
+      {
+        "course": "HederaHBAR",
+        "entry_req": "$0.07736"
+      },
+      {
+        "course": "LitecoinLTC",
+        "entry_req": "$41.96"
+      },
+      {
+        "course": "Circle USYCUSYC",
+        "entry_req": "$1.13"
+      },
+      {
+        "course": "SuiSUI",
+        "entry_req": "$0.6967"
+      },
+      {
+        "course": "Global DollarUSDG",
+        "entry_req": "$0.9998"
+      },
+      {
+        "course": "PayPal USDPYUSD",
+        "entry_req": "$0.9998"
+      },
+      {
+        "course": "AvalancheAVAX",
+        "entry_req": "$6.30"
+      },
+      {
+        "course": "Shiba InuSHIB",
+        "entry_req": "$0.054532"
+      },
+      {
+        "course": "CronosCRO",
+        "entry_req": "$0.05645"
+      },
+      {
+        "course": "NEAR ProtocolNEAR",
+        "entry_req": "$1.98"
+      },
+      {
+        "course": "Tether GoldXAUT",
+        "entry_req": "$4,106.31"
+      },
+      {
+        "course": "BlackRock USD Institutional Digital Liquidity FundBUIDL",
+        "entry_req": "$1.00"
+      },
+      {
+        "course": "Ondo US Dollar YieldUSDY",
+        "entry_req": "$1.13"
+      },
+      {
+        "course": "BittensorTAO",
+        "entry_req": "$216.21"
+      },
+      {
+        "course": "World Liberty FinancialWLFI",
+        "entry_req": "$0.0589"
+      },
+      {
+        "course": "WorldcoinWLD",
+        "entry_req": "$0.5384"
+      },
+      {
+        "course": "PAX GoldPAXG",
+        "entry_req": "$4,111.39"
+      },
+      {
+        "course": "UniswapUNI",
+        "entry_req": "$2.89"
+      },
+      {
+        "course": "MantleMNT",
+        "entry_req": "$0.5115"
+      },
+      {
+        "course": "AsterASTER",
+        "entry_req": "$0.6207"
+      },
+      {
+        "course": "Ripple USDRLUSD",
+        "entry_req": "$0.9998"
+      },
+      {
+        "course": "OKBOKB",
+        "entry_req": "$76.66"
+      }
+    ]
+  }
+]
