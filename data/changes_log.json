@@ -50,6 +50,48 @@
       "old_req": "GBP 316.71",
       "new_req": "GBP 316.54",
       "detected_at": "2026-06-23T21:37:14"
+    },
+    {
+      "course": "Bitcoin",
+      "kind": "changed",
+      "old_req": "GBP 47,257.00",
+      "new_req": "GBP 47,395.00",
+      "detected_at": "2026-06-23T21:54:17"
+    },
+    {
+      "course": "Ethereum",
+      "kind": "changed",
+      "old_req": "GBP 1,257.76",
+      "new_req": "GBP 1,261.23",
+      "detected_at": "2026-06-23T21:54:17"
+    },
+    {
+      "course": "BNB",
+      "kind": "changed",
+      "old_req": "GBP 435.92",
+      "new_req": "GBP 436.71",
+      "detected_at": "2026-06-23T21:54:17"
+    },
+    {
+      "course": "Solana",
+      "kind": "changed",
+      "old_req": "GBP 52.18",
+      "new_req": "GBP 52.38",
+      "detected_at": "2026-06-23T21:54:17"
+    },
+    {
+      "course": "Hyperliquid",
+      "kind": "changed",
+      "old_req": "GBP 47.40",
+      "new_req": "GBP 47.09",
+      "detected_at": "2026-06-23T21:54:17"
+    },
+    {
+      "course": "Zcash",
+      "kind": "changed",
+      "old_req": "GBP 316.54",
+      "new_req": "GBP 316.33",
+      "detected_at": "2026-06-23T21:54:17"
     }
   ]
 }
