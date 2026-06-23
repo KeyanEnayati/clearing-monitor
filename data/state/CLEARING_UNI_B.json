@@ -1,42 +1,42 @@
 {
-  "BSc Computer Science": {
-    "req": "128 UCAS pts",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BSc (Hons) Computer Science": {
+    "req": "ABB or 136 UCAS tariff points. Mathematics A-level at grade B or above required. GCSE Maths at grade 5 and English Language at grade 4.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BA International Business": {
-    "req": "120 UCAS pts",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BA (Hons) International Business": {
+    "req": "BBB or 120 UCAS tariff points. No specific A-level subjects required. GCSE English Language and Maths at grade 4. Modern language A-level or international work experience desirable.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BEng Mechanical Engineering": {
-    "req": "136 UCAS pts",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BEng (Hons) Mechanical Engineering": {
+    "req": "BBB or 120 UCAS tariff points. Mathematics and Physics A-levels both required. GCSE Maths at grade 6.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BSc Sport Science": {
-    "req": "112 UCAS pts",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BSc (Hons) Sport and Exercise Science": {
+    "req": "BBC or 112 UCAS tariff points. GCSE English Language and Maths at grade 4. Physical Education, Biology, or Sport Science A-level preferred.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BA Criminology": {
-    "req": "104 UCAS pts",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BA (Hons) Criminology": {
+    "req": "BBC or 112 UCAS tariff points. No specific A-level subjects required. GCSE English Language and Maths at grade 4.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BSc Pharmacy (MPharm)": {
-    "req": "AAB",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "MPharm Pharmacy (4 years)": {
+    "req": "AAB or 152 UCAS tariff points. Chemistry A-level at grade A required. Biology or Mathematics A-level preferred. GCSE Maths and English Language at grade 5. Interview required for all applicants.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BA Graphic Design": {
-    "req": "96 UCAS pts",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BA (Hons) Graphic Design": {
+    "req": "BBC or 112 UCAS tariff points. Art, Design, or Media A-level preferred. Portfolio of creative work required and assessed before offer. GCSE English Language and Maths at grade 4.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BA Media Studies": {
-    "req": "88 UCAS pts",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BA (Hons) Media and Communications": {
+    "req": "BCC or 104 UCAS tariff points. Media, English, Film, or creative subject A-level preferred. GCSE English Language at grade 4. Personal statement should demonstrate genuine media interest.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   }
 }

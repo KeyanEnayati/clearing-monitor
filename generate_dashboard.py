@@ -174,8 +174,11 @@ def generate():
     .dr td{{padding:.45rem 1rem;border-top:1px solid #ddd;text-align:center}}
     .lbl{{background:#f3e8f7;text-align:left!important;
           color:#5A1F6E;font-weight:600;font-size:.8rem;letter-spacing:.02em}}
-    .dc{{background:#fff;font-weight:500}}
+    .dc{{background:#fff;font-weight:400;white-space:normal;max-width:320px;
+         word-break:break-word;vertical-align:top;line-height:1.5}}
     .chg{{background:#fff8e1}}   /* changed cells: subtle warm highlight */
+    .ts{{min-width:110px;white-space:nowrap}}
+    .cn{{min-width:220px;white-space:normal;word-break:break-word}}
 
     .nd{{color:#999;font-style:italic;padding:.5rem}}
 

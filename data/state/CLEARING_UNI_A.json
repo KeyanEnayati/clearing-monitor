@@ -1,42 +1,42 @@
 {
-  "BSc Computing": {
-    "req": "ABB",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BSc (Hons) Computing": {
+    "req": "BBB or 120 UCAS tariff points from 3 A-levels. GCSE Mathematics grade B/5 and English Language grade C/4 required. No specific A-level subjects required.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BA Business Management": {
-    "req": "BBB",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BA (Hons) Business Management": {
+    "req": "BCC or 104 UCAS tariff points from 3 A-levels. GCSE Maths and English Language grade C/4. BTEC Extended Diploma at MMM or equivalent accepted.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BSc Nursing (Adult)": {
-    "req": "ABB",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BSc (Hons) Nursing (Adult)": {
+    "req": "BBC or 112 UCAS tariff points. One science A-level preferred (Biology, Chemistry, or Health & Social Care). GCSE English Language and Maths at grade C/4. Relevant care experience required. Enhanced DBS check and Occupational Health assessment required.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
   "LLB Law": {
-    "req": "AAB",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+    "req": "ABB or 128 UCAS tariff points. No specific A-level subjects required; critical thinking or essay-based subjects preferred. GCSE English Language at grade B/5 or above.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BEng Civil Engineering": {
-    "req": "ABB",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BEng (Hons) Civil Engineering": {
+    "req": "BBB or 120 UCAS tariff points. Mathematics A-level required. Science A-level preferred. GCSE Mathematics at grade B/5.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BSc Psychology": {
-    "req": "BBB",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BSc (Hons) Psychology": {
+    "req": "BBB or 120 UCAS tariff points. No specific A-level subjects required. GCSE English Language and Maths at grade C/4. Psychology, Biology, or Sociology A-level desirable.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BA Marketing": {
-    "req": "BBC",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BA (Hons) Marketing": {
+    "req": "BBC or 112 UCAS tariff points. No specific A-level subjects required. GCSE Maths and English Language at grade C/4.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BA Education Studies": {
-    "req": "BCC",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BA (Hons) Education Studies": {
+    "req": "BCC or 104 UCAS tariff points. GCSE English Language and Maths at grade C/4. Experience in educational or community settings desirable.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   }
 }

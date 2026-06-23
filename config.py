@@ -27,25 +27,25 @@ if TEST_MODE:
     # appear per poll – identical behaviour to the real production system.
     UNIVERSITIES = {
         "CLEARING_UNI_A": {
-            "name": "Midlands City University",
+            "name": "Birmingham City University (BCU)",
             "clearing_url": "simulation://clearing_uni_a",
             "scrape_method": "custom",   # parsers/clearing_uni_a.py
             "requires_js":  False,
-            "notes":        "8 courses, A-level grades (ABB→BBC…). Drops every ~30 min.",
+            "notes":        "8 BCU courses with full A-level/GCSE requirements. Drops every ~30 min.",
         },
         "CLEARING_UNI_B": {
-            "name": "Metro Central University",
+            "name": "Coventry University",
             "clearing_url": "simulation://clearing_uni_b",
             "scrape_method": "custom",   # parsers/clearing_uni_b.py
             "requires_js":  False,
-            "notes":        "8 courses, UCAS points (128→104…). Drops every ~30 min.",
+            "notes":        "8 Coventry courses with full UCAS tariff requirements. Drops every ~30 min.",
         },
         "CLEARING_UNI_C": {
-            "name": "Northern Polytechnic University",
+            "name": "De Montfort University (DMU)",
             "clearing_url": "simulation://clearing_uni_c",
             "scrape_method": "custom",   # parsers/clearing_uni_c.py
             "requires_js":  False,
-            "notes":        "8 courses, mixed grades incl. BTEC. Drops every ~30 min.",
+            "notes":        "8 DMU courses, mixed A-level/BTEC/portfolio requirements. Drops every ~30 min.",
         },
     }
 else:

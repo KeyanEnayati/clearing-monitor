@@ -1,42 +1,42 @@
 {
-  "BSc Data Science": {
-    "req": "ABB",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BSc (Hons) Data Science": {
+    "req": "BBB or 120 UCAS tariff points. Mathematics A-level strongly recommended. GCSE Maths at grade 5 or above. GCSE English Language at grade 4.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BA Accounting & Finance": {
-    "req": "ABB",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BA (Hons) Accounting and Finance": {
+    "req": "BBB or 120 UCAS tariff points. Mathematics or Business A-level preferred. GCSE Maths at grade B/5 and English Language at grade C/4.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BEng Electronic Engineering": {
-    "req": "BBB",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BEng (Hons) Electronic Engineering": {
+    "req": "BBB or 120 UCAS tariff points. Mathematics and Physics A-levels both required. GCSE Maths at grade B/5.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BSc Biomedical Science": {
-    "req": "BBB",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BSc (Hons) Biomedical Science": {
+    "req": "BBB or 120 UCAS tariff points. Biology or Chemistry A-level required. GCSE Science and Maths at grade B/5. GCSE English Language grade C/4.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BSc Architecture": {
-    "req": "ABB",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BSc (Hons) Architecture (ARB/RIBA Part 1)": {
+    "req": "ABB or 128 UCAS tariff points. Art, Design, Maths, or Physics A-level preferred. Portfolio of creative/technical work required – assessed before offer. GCSE English Language and Maths at grade C/4.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BA Fashion Design": {
-    "req": "Distinction Merit Merit",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BA (Hons) Fashion Design": {
+    "req": "BCC or 104 UCAS tariff points. Art, Design, or Textiles A-level strongly preferred. Portfolio of creative work required – assessed before offer. GCSE English Language and Maths at grade C/4.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BSc Environmental Science": {
-    "req": "BBC",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BSc (Hons) Environmental Science": {
+    "req": "BBC or 112 UCAS tariff points. Science A-level preferred (Biology, Chemistry, Geography, or Environmental Science). GCSE Maths and English Language at grade C/4.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   },
-  "BA Music Technology": {
-    "req": "Distinction Distinction Merit",
-    "first_seen": "2026-06-23T23:00:12",
-    "last_changed": "2026-06-23T23:00:12"
+  "BA (Hons) Music Technology": {
+    "req": "BCC or 104 UCAS tariff points. Music, Physics, or Computing A-level preferred. Portfolio or audition piece may be required. GCSE English Language and Maths at grade C/4.",
+    "first_seen": "2026-06-23T23:16:17",
+    "last_changed": "2026-06-23T23:16:17"
   }
 }
