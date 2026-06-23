@@ -1,13 +1,13 @@
 {
   "Bitcoin": {
-    "req": "GBP 47,257.00",
+    "req": "GBP 47,395.00",
     "first_seen": "2026-06-23T21:36:10",
-    "last_changed": "2026-06-23T21:37:14"
+    "last_changed": "2026-06-23T21:54:17"
   },
   "Ethereum": {
-    "req": "GBP 1,257.76",
+    "req": "GBP 1,261.23",
     "first_seen": "2026-06-23T21:36:10",
-    "last_changed": "2026-06-23T21:37:14"
+    "last_changed": "2026-06-23T21:54:17"
   },
   "Tether": {
     "req": "GBP 0.76",
@@ -15,9 +15,9 @@
     "last_changed": "2026-06-23T21:36:10"
   },
   "BNB": {
-    "req": "GBP 435.92",
+    "req": "GBP 436.71",
     "first_seen": "2026-06-23T21:36:10",
-    "last_changed": "2026-06-23T21:37:14"
+    "last_changed": "2026-06-23T21:54:17"
   },
   "USDC": {
     "req": "GBP 0.76",
@@ -30,9 +30,9 @@
     "last_changed": "2026-06-23T21:36:10"
   },
   "Solana": {
-    "req": "GBP 52.18",
+    "req": "GBP 52.38",
     "first_seen": "2026-06-23T21:36:10",
-    "last_changed": "2026-06-23T21:37:14"
+    "last_changed": "2026-06-23T21:54:17"
   },
   "TRON": {
     "req": "GBP 0.25",
@@ -45,9 +45,9 @@
     "last_changed": "2026-06-23T21:36:10"
   },
   "Hyperliquid": {
-    "req": "GBP 47.40",
+    "req": "GBP 47.09",
     "first_seen": "2026-06-23T21:36:10",
-    "last_changed": "2026-06-23T21:37:14"
+    "last_changed": "2026-06-23T21:54:17"
   },
   "Dogecoin": {
     "req": "GBP 0.06",
@@ -70,8 +70,8 @@
     "last_changed": "2026-06-23T21:36:10"
   },
   "Zcash": {
-    "req": "GBP 316.54",
+    "req": "GBP 316.33",
     "first_seen": "2026-06-23T21:36:10",
-    "last_changed": "2026-06-23T21:37:14"
+    "last_changed": "2026-06-23T21:54:17"
   }
 }
