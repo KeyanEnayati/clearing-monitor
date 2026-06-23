@@ -3,10 +3,8 @@ name: Clearing Monitor
 # ── When to run ──────────────────────────────────────────────────────────────
 on:
   schedule:
-    # Every 30 minutes.  GitHub Free gives 2 000 CI minutes/month for private
-    # repos; 30-min interval ≈ 1 440 runs/month × ~1 min each = safe.
-    # Change to '*/15 * * * *' if the repo is PUBLIC (unlimited free minutes).
-    - cron: '*/30 * * * *'
+    # Every 15 minutes.  Repo is public so GitHub Actions minutes are unlimited.
+    - cron: '*/15 * * * *'
 
   # Also lets you click "Run workflow" on the GitHub Actions tab for a
   # manual test at any time.
