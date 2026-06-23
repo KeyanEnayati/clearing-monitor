@@ -1,0 +1,42 @@
+{
+  "BSc Data Science": {
+    "req": "ABB",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BA Accounting & Finance": {
+    "req": "ABB",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BEng Electronic Engineering": {
+    "req": "BBB",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BSc Biomedical Science": {
+    "req": "BBB",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BSc Architecture": {
+    "req": "ABB",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BA Fashion Design": {
+    "req": "Distinction Merit Merit",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BSc Environmental Science": {
+    "req": "BBC",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BA Music Technology": {
+    "req": "Distinction Distinction Merit",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  }
+}

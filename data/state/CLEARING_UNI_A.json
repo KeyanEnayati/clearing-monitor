@@ -1,0 +1,42 @@
+{
+  "BSc Computing": {
+    "req": "ABB",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BA Business Management": {
+    "req": "BBB",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BSc Nursing (Adult)": {
+    "req": "ABB",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "LLB Law": {
+    "req": "AAB",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BEng Civil Engineering": {
+    "req": "ABB",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BSc Psychology": {
+    "req": "BBB",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BA Marketing": {
+    "req": "BBC",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BA Education Studies": {
+    "req": "BCC",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  }
+}

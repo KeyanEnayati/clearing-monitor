@@ -1,0 +1,42 @@
+{
+  "BSc Computer Science": {
+    "req": "128 UCAS pts",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BA International Business": {
+    "req": "120 UCAS pts",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BEng Mechanical Engineering": {
+    "req": "136 UCAS pts",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BSc Sport Science": {
+    "req": "112 UCAS pts",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BA Criminology": {
+    "req": "104 UCAS pts",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BSc Pharmacy (MPharm)": {
+    "req": "AAB",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BA Graphic Design": {
+    "req": "96 UCAS pts",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  },
+  "BA Media Studies": {
+    "req": "88 UCAS pts",
+    "first_seen": "2026-06-23T23:00:12",
+    "last_changed": "2026-06-23T23:00:12"
+  }
+}

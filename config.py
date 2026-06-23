@@ -21,32 +21,31 @@ TEST_MODE = True   # flip to False for real clearing
 POLL_INTERVAL_MINUTES = 15
 
 if TEST_MODE:
+    # Three simulated competitor universities with realistic UK clearing data.
+    # Course names, grade structures, and drop patterns mirror real clearing.
+    # Requirements drop every ~30 min per course, staggered so 1-3 changes
+    # appear per poll – identical behaviour to the real production system.
     UNIVERSITIES = {
-        # ── Test source 1: GBP exchange rates (updates daily) ──────────────
-        "EXCHANGE_RATES": {
-            "name": "Competitor A – GBP Exchange Rates",
-            "clearing_url": "https://open.er-api.com/v6/latest/GBP",
-            "scrape_method": "custom",   # parsers/exchange_rates.py
+        "CLEARING_UNI_A": {
+            "name": "Midlands City University",
+            "clearing_url": "simulation://clearing_uni_a",
+            "scrape_method": "custom",   # parsers/clearing_uni_a.py
             "requires_js":  False,
-            "notes":        "20 currencies vs GBP. Updates once daily.",
+            "notes":        "8 courses, A-level grades (ABB→BBC…). Drops every ~30 min.",
         },
-        # ── Test source 2: Crypto market prices (updates every ~5 min) ─────
-        # Best for live demo – prices change frequently, just like UCAS points
-        # drop during clearing as universities fill spaces.
-        "CRYPTO_MARKETS": {
-            "name": "Competitor B – Crypto Markets",
-            "clearing_url": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=gbp",
-            "scrape_method": "custom",   # parsers/crypto_markets.py
+        "CLEARING_UNI_B": {
+            "name": "Metro Central University",
+            "clearing_url": "simulation://clearing_uni_b",
+            "scrape_method": "custom",   # parsers/clearing_uni_b.py
             "requires_js":  False,
-            "notes":        "Top 15 coins in GBP. Updates every ~5 min.",
+            "notes":        "8 courses, UCAS points (128→104…). Drops every ~30 min.",
         },
-        # ── Test source 3: EUR exchange rates (updates daily) ──────────────
-        "EUR_RATES": {
-            "name": "Competitor C – EUR Exchange Rates",
-            "clearing_url": "https://api.frankfurter.app/latest?from=EUR",
-            "scrape_method": "custom",   # parsers/eur_rates.py
+        "CLEARING_UNI_C": {
+            "name": "Northern Polytechnic University",
+            "clearing_url": "simulation://clearing_uni_c",
+            "scrape_method": "custom",   # parsers/clearing_uni_c.py
             "requires_js":  False,
-            "notes":        "15 currencies vs EUR. Updates once daily.",
+            "notes":        "8 courses, mixed grades incl. BTEC. Drops every ~30 min.",
         },
     }
 else:
