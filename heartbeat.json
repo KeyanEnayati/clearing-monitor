@@ -1,9 +1,9 @@
 {
   "status": "running",
-  "last_poll_at": "2026-07-02T12:29:25",
+  "last_poll_at": "2026-07-02T14:39:56",
   "poll_number": 1,
   "poll_interval_min": 15,
-  "changes_this_poll": 32,
+  "changes_this_poll": 0,
   "universities": [
     "TRIALS_CANCER",
     "TRIALS_CARDIO",
